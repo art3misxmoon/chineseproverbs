@@ -1,0 +1,865 @@
+chinese,english,source,refs_list
+艰苦创业,start a business in difficult circumstances,JSON,['start a business in difficult circumstances']
+风雨同舟,to weather the storm together,JSON,['to weather the storm together']
+斩草除根,eliminating the root cause; solving a problem thoroughly; taking decisive action to eradicate a problem,JSON,"['eliminating the root cause', 'solving a problem thoroughly', 'taking decisive action to eradicate a problem']"
+惊魂未定,still in a state of shock and fear,JSON,['still in a state of shock and fear']
+额手称庆,"""to pat oneself on the back"" or ""to be pleased with oneself""",JSON,"['to pat oneself on the back', 'to be pleased with oneself']"
+傲然挺立,standing proudly and confidently,JSON,['standing proudly and confidently']
+惊天动地,"earth-shattering, extremely shocking",JSON,"['earth-shattering, extremely shocking']"
+取信于民,gaining trust and support from the people,JSON,['gaining trust and support from the people']
+壁垒森严,having a strict and formidable defense; also refers to a situation where there are many obstacles or barriers to overcome,JSON,"['having a strict and formidable defense', 'also refers to a situation where there are many obstacles or barriers to overcome']"
+探囊取物,"easily get what one wants, effortlessly obtain something",JSON,"['easily get what one wants, effortlessly obtain something']"
+聊以塞责,to do something just to fulfill one's duty or silence criticism,JSON,"[""to do something just to fulfill one's duty or silence criticism""]"
+浪迹天涯,wander far and wide,JSON,['wander far and wide']
+鼎足之势,Equal balance of power among three parties,JSON,['equal balance of power among three parties']
+心乱如麻,heart in chaos and confusion; feeling extremely agitated or distressed,JSON,"['heart in chaos and confusion', 'feeling extremely agitated or distressed']"
+大处着眼，小处着手,to focus on the major issues and handle the minor ones,JSON,['to focus on the major issues and handle the minor ones']
+不管三七二十一,regardless of the consequences or circumstances; without considering the details,JSON,"['regardless of the consequences or circumstances', 'without considering the details']"
+甘心情愿,willing and contented,JSON,['willing and contented']
+蚁穴溃堤,a small problem leads to a big disaster,JSON,['a small problem leads to a big disaster']
+丧尽天良,to have lost all sense of morality or decency,JSON,['to have lost all sense of morality or decency']
+履险如夷,to approach danger with ease and without fear,JSON,['to approach danger with ease and without fear']
+恪守不渝,adhering firmly and unwaveringly to principles or commitments,JSON,['adhering firmly and unwaveringly to principles or commitments']
+官逼民反,the people are forced to rebel against the officials,JSON,['the people are forced to rebel against the officials']
+登高一呼,making a call from a high place; also refers to taking advantage of one's elevated position to speak out or make a plea,JSON,"['making a call from a high place', ""also refers to taking advantage of one's elevated position to speak out or make a plea""]"
+独一无二,one and only,JSON,['one and only']
+略知一二,"having a basic understanding or knowledge of something, but not being an expert or having in-depth knowledge",JSON,"['having a basic understanding or knowledge of something, but not being an expert or having in-depth knowledge']"
+小手小脚,being petty or nitpicky,JSON,['being petty or nitpicky']
+万世师表,a model for future generations,JSON,['a model for future generations']
+心安理得,feel at ease and justified,JSON,['feel at ease and justified']
+率马以骥,"taking a horse as a guide, leading others towards excellence",JSON,"['taking a horse as a guide, leading others towards excellence']"
+稳操胜算,having a reliable strategy and being confident of success,JSON,['having a reliable strategy and being confident of success']
+百年偕老,"""to grow old together for a hundred years""; it is often used to wish a couple a long and happy marriage",JSON,['to grow old together for a hundred years']
+供不应求,"demand exceeds supply, there is more demand for something than there is availability of it",JSON,"['demand exceeds supply, there is more demand for something than there is availability of it']"
+攻无不克,invincible in military campaigns; unbeatable in all attacks,JSON,"['invincible in military campaigns', 'unbeatable in all attacks']"
+其味无穷,never-ending pleasure; having a flavor that is inexhaustible,JSON,"['never-ending pleasure', 'having a flavor that is inexhaustible']"
+焕然一新,Completely renewed or refreshed,JSON,['completely renewed or refreshed']
+落花有意，流水无情,"falling flowers have intention, flowing water is indifferent",JSON,"['falling flowers have intention, flowing water is indifferent']"
+功成名就,to achieve great success and become famous,JSON,['to achieve great success and become famous']
+谆谆教导,patiently and earnestly teaching and advising,JSON,['patiently and earnestly teaching and advising']
+不以为然,not think it is right or acceptable,JSON,['not think it is right or acceptable']
+持论公允,maintaining an impartial and fair attitude in discussions or debates,JSON,['maintaining an impartial and fair attitude in discussions or debates']
+明镜高悬,"keeping a clear and impartial mind, being highly self-disciplined",JSON,"['keeping a clear and impartial mind, being highly self-disciplined']"
+必恭必敬,always be respectful and courteous; without fail showing respect and reverence,JSON,"['always be respectful and courteous', 'without fail showing respect and reverence']"
+忘乎所以,completely forget everything and become absorbed in something,JSON,['completely forget everything and become absorbed in something']
+前程万里,a bright and promising future,JSON,['a bright and promising future']
+姑妄言之,to give an unauthoritative or speculative opinion,JSON,['to give an unauthoritative or speculative opinion']
+漆黑一团,"""pitch black"" or ""completely dark""",JSON,"['pitch black', 'completely dark']"
+围魏救赵,"focus on the main enemy, rather than being distracted by other issues",JSON,"['focus on the main enemy, rather than being distracted by other issues']"
+玄之又玄,mysterious and profound,JSON,['mysterious and profound']
+借古讽今,using historical events or figures to criticize and satirize current situations or people,JSON,['using historical events or figures to criticize and satirize current situations or people']
+持之有故,persistently and with a clear purpose,JSON,['persistently and with a clear purpose']
+兵强将勇,strong soldiers and brave generals,JSON,['strong soldiers and brave generals']
+穷则思变,necessity breeds innovation,JSON,['necessity breeds innovation']
+相安无事,to live in peace without disturbance or conflict,JSON,['to live in peace without disturbance or conflict']
+物阜民丰,abundance of resources and prosperity for the people,JSON,['abundance of resources and prosperity for the people']
+逝者如斯,"time flies, everything passes away",JSON,"['time flies, everything passes away']"
+高风亮节,having high moral character and integrity,JSON,['having high moral character and integrity']
+诛心之论,a cutting or highly critical remark that directly targets someone's intentions or motives,JSON,"[""a cutting or highly critical remark that directly targets someone's intentions or motives""]"
+无时无刻,"at all times, constantly",JSON,"['at all times, constantly']"
+以手加额,to rub one's forehead with one's hand; also refers to feeling anxious or troubled,JSON,"[""to rub one's forehead with one's hand"", 'also refers to feeling anxious or troubled']"
+自成一格,having a unique style or individuality,JSON,['having a unique style or individuality']
+依然如故,"remained the same, unchanged",JSON,"['remained the same, unchanged']"
+本乡本土,local and native to one's own hometown or region,JSON,"[""local and native to one's own hometown or region""]"
+五藏六府,the body's organs and systems,JSON,"[""the body's organs and systems""]"
+积沙成塔,accumulating small amounts of something over time to create something substantial,JSON,['accumulating small amounts of something over time to create something substantial']
+风马牛不相及,Two completely unrelated things or ideas that have nothing in common,JSON,['two completely unrelated things or ideas that have nothing in common']
+缩头缩脑,to be timid or cowardly,JSON,['to be timid or cowardly']
+完美无缺,perfect and flawless,JSON,['perfect and flawless']
+指鸡骂狗,criticize someone indirectly,JSON,['criticize someone indirectly']
+将信将疑,"being skeptical and unsure, having both belief and doubt",JSON,"['being skeptical and unsure, having both belief and doubt']"
+模棱两可,ambiguous; unclear; indefinite,JSON,"['ambiguous', 'unclear', 'indefinite']"
+天南海北,far away places; different corners of the world,JSON,"['far away places', 'different corners of the world']"
+刚愎自用,stubbornly self-willed; refusing to listen to others,JSON,"['stubbornly self-willed', 'refusing to listen to others']"
+竹篱茅舍,a simple and humble dwelling,JSON,['a simple and humble dwelling']
+远涉重洋,to make a long and difficult journey; to travel across great distances,JSON,"['to make a long and difficult journey', 'to travel across great distances']"
+蛇蝎心肠,a wicked and deceitful heart,JSON,['a wicked and deceitful heart']
+不过尔尔,mediocre; average; nothing special,JSON,"['mediocre', 'average', 'nothing special']"
+舍身求法,self-sacrifice in the pursuit of justice or truth,JSON,['self-sacrifice in the pursuit of justice or truth']
+呼卢喝雉,making loud noises to scare away opponents; using intimidation tactics,JSON,"['making loud noises to scare away opponents', 'using intimidation tactics']"
+一盘散沙,a group of people with no unity or cohesion,JSON,['a group of people with no unity or cohesion']
+哑口无言,"""speechless"" or ""unable to speak""",JSON,"['speechless', 'unable to speak']"
+四海之内皆兄弟,Everyone is brothers within four seas.,JSON,['everyone is brothers within four seas.']
+高谈阔论,engaging in lofty or grandiose discussions or discourse,JSON,['engaging in lofty or grandiose discussions or discourse']
+乌七八糟,"a mess or chaos, disorderly",JSON,"['a mess or chaos, disorderly']"
+骄傲自满,being proud and self-satisfied,JSON,['being proud and self-satisfied']
+叹为观止,astonishing or breathtaking; to be amazed and admire something to the point of sighing,JSON,"['astonishing or breathtaking', 'to be amazed and admire something to the point of sighing']"
+如临深渊,"standing on the precipice, facing imminent danger",JSON,"['standing on the precipice, facing imminent danger']"
+济济一堂,a gathering of talented and distinguished individuals,JSON,['a gathering of talented and distinguished individuals']
+迁客骚人,a person who frequently changes residence and leads a wandering life,JSON,['a person who frequently changes residence and leads a wandering life']
+意马心猿,having a wandering mind; being distracted or unable to concentrate on something,JSON,"['having a wandering mind', 'being distracted or unable to concentrate on something']"
+讨好卖乖,trying to please people by behaving cleverly and obediently in order to gain their favor,JSON,['trying to please people by behaving cleverly and obediently in order to gain their favor']
+不可逾越,cannot be surpassed or surpassed,JSON,['cannot be surpassed or surpassed']
+形势逼人,The situation forces one's hand,JSON,"[""the situation forces one's hand""]"
+书香门第,a family known for its scholarly accomplishments,JSON,['a family known for its scholarly accomplishments']
+画龙点睛,adding the finishing touch; adding a critical or important detail to make something perfect,JSON,"['adding the finishing touch', 'adding a critical or important detail to make something perfect']"
+颠倒黑白,"to confuse right and wrong, to distort the truth",JSON,"['to confuse right and wrong, to distort the truth']"
+别来无恙,Hope you're doing well,JSON,"[""hope you're doing well""]"
+鞭长不及,unable to reach due to the distance,JSON,['unable to reach due to the distance']
+竭尽全力,exert one's utmost effort,JSON,"[""exert one's utmost effort""]"
+徒劳无益,fruitless and without any benefit,JSON,['fruitless and without any benefit']
+自由放任,freedom and indulgence without any restraints or restrictions,JSON,['freedom and indulgence without any restraints or restrictions']
+马不停蹄,"non-stop or continuously, without any pause or rest",JSON,"['non-stop or continuously, without any pause or rest']"
+驰名中外,famous both at home and abroad,JSON,['famous both at home and abroad']
+一唱一和,"to sing in harmony, to cooperate well together",JSON,"['to sing in harmony, to cooperate well together']"
+收之桑榆,to retrieve something before sunset; to recover something before it's too late,JSON,"['to retrieve something before sunset', ""to recover something before it's too late""]"
+泛泛而谈,speaking in general and vague terms,JSON,['speaking in general and vague terms']
+星星之火，可以燎原,a small spark can start a prairie fire,JSON,['a small spark can start a prairie fire']
+侥幸取胜,to win by a stroke of luck or by a narrow margin,JSON,['to win by a stroke of luck or by a narrow margin']
+轻描淡写,to treat something lightly or superficially; to downplay or dismiss something,JSON,"['to treat something lightly or superficially', 'to downplay or dismiss something']"
+噤若寒蝉,"""to remain silent or quiet like a cicada in the cold"", meaning to stay quiet or silent, especially in a tense, nervous or fearful situation.",JSON,['to remain silent or quiet like a cicada in the cold']
+捶胸顿足,"""to beat one's chest and stamp one's feet"" (expression of extreme frustration or regret)",JSON,"[""to beat one's chest and stamp one's feet""]"
+生气勃勃,"full of vitality and energy, showing strong liveliness",JSON,"['full of vitality and energy, showing strong liveliness']"
+风云际会,a crucial moment or a critical juncture,JSON,['a crucial moment or a critical juncture']
+竖起脊梁,"stand tall with a straight spine, symbolizing being upright and morally righteous",JSON,"['stand tall with a straight spine, symbolizing being upright and morally righteous']"
+水天一色,the water and the sky merge into one; a vast expanse of water and sky,JSON,"['the water and the sky merge into one', 'a vast expanse of water and sky']"
+党同伐异,to unite against those who are different or dissenting from one's own group,JSON,"[""to unite against those who are different or dissenting from one's own group""]"
+乘风破浪,bravely facing challenges and overcoming obstacles; also refers to boldly venturing into uncharted territory,JSON,"['bravely facing challenges and overcoming obstacles', 'also refers to boldly venturing into uncharted territory']"
+气喘如牛,"panting like a bull, being out of breath and gasping heavily",JSON,"['panting like a bull, being out of breath and gasping heavily']"
+九转功成,successful after many attempts and hardships,JSON,['successful after many attempts and hardships']
+以己度人,judging others based on one's own standards or perspective,JSON,"[""judging others based on one's own standards or perspective""]"
+画地为牢,to draw a line on the ground as a boundary; to establish a firm and unshakable plan or commitment,JSON,"['to draw a line on the ground as a boundary', 'to establish a firm and unshakable plan or commitment']"
+一刀两断,make a clean break; decisively end a relationship or situation,JSON,"['make a clean break', 'decisively end a relationship or situation']"
+挺身而出,to step forward and take responsibility or initiative in a difficult or challenging situation,JSON,['to step forward and take responsibility or initiative in a difficult or challenging situation']
+丢人现眼,making a fool of oneself in public,JSON,['making a fool of oneself in public']
+神不知，鬼不觉,done secretly and without anyone noticing,JSON,['done secretly and without anyone noticing']
+高山仰止,to look up in awe; to hold someone or something in high regard,JSON,"['to look up in awe', 'to hold someone or something in high regard']"
+良辰美景,beautiful scenery and a good time; refers to a pleasant and enjoyable moment or environment,JSON,"['beautiful scenery and a good time', 'refers to a pleasant and enjoyable moment or environment']"
+交口称誉,"praised by everyone, highly acclaimed",JSON,"['praised by everyone, highly acclaimed']"
+如汤沃雪,having a positive impact on someone as if pouring hot water onto snow; having a strong influence on someone; making a great impression on someone,JSON,"['having a positive impact on someone as if pouring hot water onto snow', 'having a strong influence on someone', 'making a great impression on someone']"
+坚不可摧,"strong and invincible, unable to be defeated",JSON,"['strong and invincible, unable to be defeated']"
+一己之私,being selfish and only considering one's own interests,JSON,"[""being selfish and only considering one's own interests""]"
+一着不慎，满盘皆输,one careless move leads to total failure; making a single mistake causes the whole plan to go wrong,JSON,"['one careless move leads to total failure', 'making a single mistake causes the whole plan to go wrong']"
+有钱有势,having wealth and power,JSON,['having wealth and power']
+嗷嗷待哺,eagerly awaiting to be fed,JSON,['eagerly awaiting to be fed']
+鼻青脸肿,"""to have a swollen and bruised face"" (usually used to describe someone who has been physically injured)",JSON,['to have a swollen and bruised face']
+青面獠牙,green-faced and fang-toothed; describes a fierce and intimidating appearance,JSON,"['green-faced and fang-toothed', 'describes a fierce and intimidating appearance']"
+稍安勿躁,be patient and avoid being hasty,JSON,['be patient and avoid being hasty']
+稗官野史,a scandalous or salacious unofficial history or record,JSON,['a scandalous or salacious unofficial history or record']
+概莫能外,excluding no one; applicable to everyone; no exception,JSON,"['excluding no one', 'applicable to everyone', 'no exception']"
+化为乌有,becoming completely useless or irrelevant; no longer exists or has any effect,JSON,"['becoming completely useless or irrelevant', 'no longer exists or has any effect']"
+郑人买履,"""buying someone else's shoes"" (making a decision based on someone else's experience or perspective)",JSON,"[""buying someone else's shoes""]"
+四平八稳,steady and stable in all aspects,JSON,['steady and stable in all aspects']
+令人喷饭,to make someone burst out laughing,JSON,['to make someone burst out laughing']
+身家性命,one's life and property; everything that one owns or possesses,JSON,"[""one's life and property"", 'everything that one owns or possesses']"
+孤行己见,persisting in one's own opinions despite others' disagreement,JSON,"[""persisting in one's own opinions despite others' disagreement""]"
+礼仪之邦,a country known for its courtesy and etiquette; a nation that upholds proper manners and protocols,JSON,"['a country known for its courtesy and etiquette', 'a nation that upholds proper manners and protocols']"
+忍俊不住,"unable to control one's laughter, finding something extremely amusing",JSON,"[""unable to control one's laughter, finding something extremely amusing""]"
+金刚怒目,angry and glaring fiercely,JSON,['angry and glaring fiercely']
+漏洞百出,"full of loopholes, riddled with flaws",JSON,"['full of loopholes, riddled with flaws']"
+回味无穷,to savor or reminisce endlessly,JSON,['to savor or reminisce endlessly']
+南征北战,engaging in battles and military campaigns in both the south and the north,JSON,['engaging in battles and military campaigns in both the south and the north']
+往返徒劳,going back and forth without achieving any result,JSON,['going back and forth without achieving any result']
+艰难竭蹶,struggling and exhausting all efforts,JSON,['struggling and exhausting all efforts']
+一模一样,identical; exactly the same,JSON,"['identical', 'exactly the same']"
+话中有话,having a hidden meaning or message within one's words,JSON,"[""having a hidden meaning or message within one's words""]"
+兴趣盎然,full of interest and enthusiasm,JSON,['full of interest and enthusiasm']
+灾难深重,to suffer from a serious disaster or calamity,JSON,['to suffer from a serious disaster or calamity']
+焦头烂额,extremely worried or overwhelmed,JSON,['extremely worried or overwhelmed']
+刎颈之交,a friendship so close that one is willing to sacrifice one's life for the other,JSON,"[""a friendship so close that one is willing to sacrifice one's life for the other""]"
+挑三拣四,"to be picky and fussy, unable to make a decision",JSON,"['to be picky and fussy, unable to make a decision']"
+宁折不弯,"prefer to break than bend, preferring to hold on to principles and not compromise",JSON,"['prefer to break than bend, preferring to hold on to principles and not compromise']"
+转败为胜,turning defeat into victory,JSON,['turning defeat into victory']
+翩翩公子,a dashing and charming young man,JSON,['a dashing and charming young man']
+朝令夕改,changing rules or plans suddenly and frequently,JSON,['changing rules or plans suddenly and frequently']
+浮想联翩,have a string of fleeting thoughts,JSON,['have a string of fleeting thoughts']
+同恶相求,"joining forces with someone bad to achieve a common goal, often referring to unethical or immoral actions",JSON,"['joining forces with someone bad to achieve a common goal, often referring to unethical or immoral actions']"
+东讨西伐,launch attacks in all directions,JSON,['launch attacks in all directions']
+轩然大波,a huge and shocking event or upheaval,JSON,['a huge and shocking event or upheaval']
+风风雨雨,going through ups and downs; experiencing both joys and hardships,JSON,"['going through ups and downs', 'experiencing both joys and hardships']"
+酣畅淋漓,fully immersed and deeply engaged; to feel greatly satisfied and fulfilled,JSON,"['fully immersed and deeply engaged', 'to feel greatly satisfied and fulfilled']"
+一举千里,accomplishing a great feat with one action,JSON,['accomplishing a great feat with one action']
+百战百胜,to win every battle; to have a perfect record in competing or fighting,JSON,"['to win every battle', 'to have a perfect record in competing or fighting']"
+打击报复,retaliation or revenge,JSON,['retaliation or revenge']
+变化无常,unpredictable and subject to constant change,JSON,['unpredictable and subject to constant change']
+判若两人,completely different from one's previous appearance or behavior,JSON,"[""completely different from one's previous appearance or behavior""]"
+伶牙俐齿,quick-witted and eloquent,JSON,['quick-witted and eloquent']
+匹夫无罪,An innocent person should not be punished for the crimes of others,JSON,['an innocent person should not be punished for the crimes of others']
+瞠目结舌,to be stunned or speechless,JSON,['to be stunned or speechless']
+太平盛世,an era of peace and prosperity,JSON,['an era of peace and prosperity']
+犬牙交错,intersecting like the teeth of a dog,JSON,['intersecting like the teeth of a dog']
+拍板成交,finalize a deal or decision,JSON,['finalize a deal or decision']
+小题大作,making a big deal out of something trivial,JSON,['making a big deal out of something trivial']
+声东击西,Diverting attention to one side while attacking from the other,JSON,['diverting attention to one side while attacking from the other']
+大放厥辞,to speak arrogantly and boastfully,JSON,['to speak arrogantly and boastfully']
+美中不足,a flaw or shortcoming in an otherwise good situation,JSON,['a flaw or shortcoming in an otherwise good situation']
+未能免俗,failing to break away from a common practice or tradition,JSON,['failing to break away from a common practice or tradition']
+等而下之,to lower one's standards and settle for less,JSON,"[""to lower one's standards and settle for less""]"
+目不暇接,too much to take in at once,JSON,['too much to take in at once']
+乐不可支,extremely happy; unable to contain one's joy,JSON,"['extremely happy', ""unable to contain one's joy""]"
+一统天下,"unify the world, achieve complete domination",JSON,"['unify the world, achieve complete domination']"
+空话连篇,talking a lot of empty words without substance,JSON,['talking a lot of empty words without substance']
+怒目而视,"gazing angrily, glaring",JSON,"['gazing angrily, glaring']"
+沸沸扬扬,rumors flying thick and fast; a lot of talk and speculation,JSON,"['rumors flying thick and fast', 'a lot of talk and speculation']"
+气贯长虹,spirited and energetic,JSON,['spirited and energetic']
+掉以轻心,"Showing a lack of concern or care, not taking something seriously",JSON,"['showing a lack of concern or care, not taking something seriously']"
+门可罗雀,a place so empty that it can be used to catch sparrows,JSON,['a place so empty that it can be used to catch sparrows']
+云泥之别,a world of difference; a stark contrast,JSON,"['a world of difference', 'a stark contrast']"
+不了了之,to leave a matter unresolved,JSON,['to leave a matter unresolved']
+锋芒所向,unbeatable and unstoppable,JSON,['unbeatable and unstoppable']
+云蒸霞蔚,beautiful and picturesque scenery,JSON,['beautiful and picturesque scenery']
+来者居上,the newcomer surpasses the old-timer,JSON,['the newcomer surpasses the old-timer']
+姑妄听之,"to heed someone's advice or opinion without careful consideration or skepticism, often leading to unfavorable consequences",JSON,"[""to heed someone's advice or opinion without careful consideration or skepticism, often leading to unfavorable consequences""]"
+愁云惨淡,an atmosphere of sadness or gloom,JSON,['an atmosphere of sadness or gloom']
+催人泪下,to move someone to tears,JSON,['to move someone to tears']
+免开尊口,to avoid unnecessary trouble or discussion,JSON,['to avoid unnecessary trouble or discussion']
+盗名欺世,cheating the world by claiming other people's achievements as one's own,JSON,"[""cheating the world by claiming other people's achievements as one's own""]"
+卖身投靠,selling oneself to seek protection or support,JSON,['selling oneself to seek protection or support']
+毒蛇猛兽,venomous snakes and fierce beasts,JSON,['venomous snakes and fierce beasts']
+疲于奔命,"exhausted from running around, busy and overwhelmed",JSON,"['exhausted from running around, busy and overwhelmed']"
+脑满肠肥,having a well-fed body but lacking in intelligence or creativity,JSON,['having a well-fed body but lacking in intelligence or creativity']
+窥豹一斑,to make a judgment or inference about the whole based on a small part or limited information,JSON,['to make a judgment or inference about the whole based on a small part or limited information']
+金马玉堂,grand and magnificent palace or hall,JSON,['grand and magnificent palace or hall']
+面如冠玉,having a beautiful and dignified appearance,JSON,['having a beautiful and dignified appearance']
+领异标新,"to lead and innovate, to blaze a new trail",JSON,"['to lead and innovate, to blaze a new trail']"
+综核名实,to comprehensively evaluate the actual situation and performance of something,JSON,['to comprehensively evaluate the actual situation and performance of something']
+管见所及,having knowledge or control over only the things that one is responsible for,JSON,['having knowledge or control over only the things that one is responsible for']
+青红皂白,distinguishing right from wrong and getting to the bottom of things,JSON,['distinguishing right from wrong and getting to the bottom of things']
+冠盖如云,Having numerous influential people or powerful supporters,JSON,['having numerous influential people or powerful supporters']
+深入骨髓,penetrating to the very core; deeply ingrained,JSON,"['penetrating to the very core', 'deeply ingrained']"
+暗度陈仓,secretly make a plan or take action,JSON,['secretly make a plan or take action']
+不辨菽麦,unable to tell the difference between right and wrong; unable to distinguish between the valuable and the worthless,JSON,"['unable to tell the difference between right and wrong', 'unable to distinguish between the valuable and the worthless']"
+男婚女嫁,"Traditional gender roles in marriage, where men take the initiative in proposing marriage and women accept marriage proposals",JSON,"['traditional gender roles in marriage, where men take the initiative in proposing marriage and women accept marriage proposals']"
+忆苦思甜,appreciating the present by recalling past hardships,JSON,['appreciating the present by recalling past hardships']
+碧血丹心,"loyalty and devotion to a cause or person, even to the extent of sacrificing one's life",JSON,"[""loyalty and devotion to a cause or person, even to the extent of sacrificing one's life""]"
+凄风苦雨,harsh or difficult circumstances,JSON,['harsh or difficult circumstances']
+服服贴贴,being obedient and submissive,JSON,['being obedient and submissive']
+无远弗届,spreading far and wide; reaching everywhere,JSON,"['spreading far and wide', 'reaching everywhere']"
+成家立业,"establish a family and career, to settle down and achieve success",JSON,"['establish a family and career, to settle down and achieve success']"
+面北眉南,wandering aimlessly; having no clear direction or purpose,JSON,"['wandering aimlessly', 'having no clear direction or purpose']"
+慎重其事,to handle a matter with caution and seriousness,JSON,['to handle a matter with caution and seriousness']
+刚正不阿,"being upright and uncompromising, refusing to yield to pressure or authority",JSON,"['being upright and uncompromising, refusing to yield to pressure or authority']"
+存心不良,having bad intentions,JSON,['having bad intentions']
+艳如桃李,as beautiful and vibrant as peach and plum blossoms,JSON,['as beautiful and vibrant as peach and plum blossoms']
+清风朗月,clean wind and bright moon,JSON,['clean wind and bright moon']
+山重水复,a difficult and treacherous path; also refers to a complex and difficult situation,JSON,"['a difficult and treacherous path', 'also refers to a complex and difficult situation']"
+想入非非,indulging in unrealistic or fanciful ideas,JSON,['indulging in unrealistic or fanciful ideas']
+老妪能解,An old woman is able to understand,JSON,['an old woman is able to understand']
+无计可施,without any means or strategies,JSON,['without any means or strategies']
+坐观成败,observe the outcome without actively participating or getting involved,JSON,['observe the outcome without actively participating or getting involved']
+负屈衔冤,to suffer injustice and bear false accusations,JSON,['to suffer injustice and bear false accusations']
+风流儒雅,elegant and cultured,JSON,['elegant and cultured']
+橙黄桔绿,"vibrant and colorful, referring to a variety of bright and eye-catching colors",JSON,"['vibrant and colorful, referring to a variety of bright and eye-catching colors']"
+日进斗金,make a lot of money daily or rapidly accumulate wealth,JSON,['make a lot of money daily or rapidly accumulate wealth']
+不由自主,"unable to control oneself, involuntarily",JSON,"['unable to control oneself, involuntarily']"
+铭感终身,to be deeply moved and forever grateful,JSON,['to be deeply moved and forever grateful']
+又要马儿跑得好，又要马儿不吃草,"Want the horse to run well, but also want the horse not to eat grass",JSON,"['want the horse to run well, but also want the horse not to eat grass']"
+一针一线,"meticulous and careful, paying attention to every detail",JSON,"['meticulous and careful, paying attention to every detail']"
+心平气和,calm and patient,JSON,['calm and patient']
+排难解纷,to resolve difficulties and disputes; to mediate and resolve conflicts,JSON,"['to resolve difficulties and disputes', 'to mediate and resolve conflicts']"
+双宿双飞,"sharing the same living space and working together closely, often used to describe a harmonious and efficient partnership",JSON,"['sharing the same living space and working together closely, often used to describe a harmonious and efficient partnership']"
+搬弄是非,to stir up trouble or create conflicts intentionally,JSON,['to stir up trouble or create conflicts intentionally']
+齐心合力,working together with united efforts,JSON,['working together with united efforts']
+直言贾祸,speak bluntly and bring trouble upon oneself,JSON,['speak bluntly and bring trouble upon oneself']
+九死一生,narrow escape; on the brink of death,JSON,"['narrow escape', 'on the brink of death']"
+惨绿少年,a young inexperienced person who is easily defeated or taken advantage of,JSON,['a young inexperienced person who is easily defeated or taken advantage of']
+营私舞弊,"engage in corruption and fraud, often for personal gain",JSON,"['engage in corruption and fraud, often for personal gain']"
+天翻地覆,a situation where everything is turned upside down and completely changed,JSON,['a situation where everything is turned upside down and completely changed']
+胆大妄为,"to act with audacity and recklessness, without considering the consequences",JSON,"['to act with audacity and recklessness, without considering the consequences']"
+不合时宜,not appropriate or timely,JSON,['not appropriate or timely']
+虎背熊腰,"having a sturdy and strong physique, like a tiger's back and a bear's waist",JSON,"[""having a sturdy and strong physique, like a tiger's back and a bear's waist""]"
+因循苟且,to follow a lazy or slipshod approach; to do things carelessly or halfheartedly,JSON,"['to follow a lazy or slipshod approach', 'to do things carelessly or halfheartedly']"
+裙带关系,nepotism,JSON,['nepotism']
+声名鹊起,to become famous or well-known (referring to someone's reputation or career) quickly,JSON,"[""to become famous or well-known ,referring to someone's reputation or career quickly""]"
+盲人瞎马,"blind leading the blind; a situation where neither party has knowledge or understanding, yet they attempt to guide or lead each other",JSON,"['blind leading the blind', 'a situation where neither party has knowledge or understanding, yet they attempt to guide or lead each other']"
+车尘马足,"a busy and bustling scene, with many people and vehicles",JSON,"['a busy and bustling scene, with many people and vehicles']"
+义不容辞,have no reason to refuse or escape from a responsibility or duty,JSON,['have no reason to refuse or escape from a responsibility or duty']
+修心养性,"cultivate one's mind and nurture one's character, focusing on self-improvement and moral cultivation",JSON,"[""cultivate one's mind and nurture one's character, focusing on self-improvement and moral cultivation""]"
+炉火纯青,masterful skill,JSON,['masterful skill']
+花说柳说,rumors and gossip; idle talk,JSON,"['rumors and gossip', 'idle talk']"
+机不可失,an opportunity that cannot be missed; seize the moment,JSON,"['an opportunity that cannot be missed', 'seize the moment']"
+安土乐业,"finding contentment in one's own life and work, without the desire for fame or wealth",JSON,"[""finding contentment in one's own life and work, without the desire for fame or wealth""]"
+不避斧钺,not fearing criticism or opposition,JSON,['not fearing criticism or opposition']
+互通有无,mutually beneficial exchange or communication,JSON,['mutually beneficial exchange or communication']
+成仁取义,choosing righteousness over personal gain,JSON,['choosing righteousness over personal gain']
+无庸置疑,"without doubt or question, absolutely certain",JSON,"['without doubt or question, absolutely certain']"
+厚古薄今,valuing the past and disregarding the present,JSON,['valuing the past and disregarding the present']
+击中要害,hit the nail on the head; get to the crux of the matter; strike at the vital point,JSON,"['hit the nail on the head', 'get to the crux of the matter', 'strike at the vital point']"
+不厌其烦,willing to put in the effort and not get tired of it; being patient and persistent,JSON,"['willing to put in the effort and not get tired of it', 'being patient and persistent']"
+不可终日,unable to endure or bear for another day,JSON,['unable to endure or bear for another day']
+驴头不对马嘴,speaking without logic or incoherent,JSON,['speaking without logic or incoherent']
+嗜杀成性,addicted to killing; having a natural inclination towards violence,JSON,"['addicted to killing', 'having a natural inclination towards violence']"
+山鸣谷应,echoing through the mountains and valleys,JSON,['echoing through the mountains and valleys']
+消愁解闷,to relieve one's worries and boredom,JSON,"[""to relieve one's worries and boredom""]"
+九泉之下,under the nine springs,JSON,['under the nine springs']
+鱼目混珠,"to mix the good with the bad, to pass off shoddy goods as superior ones",JSON,"['to mix the good with the bad, to pass off shoddy goods as superior ones']"
+谄上欺下,flatter those above and deceive those below,JSON,['flatter those above and deceive those below']
+念兹在兹,to have deep thoughts or concerns about something,JSON,['to have deep thoughts or concerns about something']
+常年累月,over the course of many years; for a long time,JSON,"['over the course of many years', 'for a long time']"
+灿若繁星,"to be shining brightly and numerous, like a cluster of stars",JSON,"['to be shining brightly and numerous, like a cluster of stars']"
+浩浩荡荡,an imposing manner or overwhelming force,JSON,['an imposing manner or overwhelming force']
+一马平川,"a flat and smooth road ahead, without any obstacles or difficulties",JSON,"['a flat and smooth road ahead, without any obstacles or difficulties']"
+残缺不全,not complete or lacking in some way,JSON,['not complete or lacking in some way']
+大有起色,showing great improvement,JSON,['showing great improvement']
+悔恨交加,"a mixture of regret and remorse, feeling both sorry and guilty for one's actions",JSON,"[""a mixture of regret and remorse, feeling both sorry and guilty for one's actions""]"
+无所不有,have everything; possess everything; refers to someone or something having a wide range of qualities or abilities; can also mean being all-inclusive or all-encompassing,JSON,"['have everything', 'possess everything', 'refers to someone or something having a wide range of qualities or abilities', 'can also mean being all-inclusive or all-encompassing']"
+能屈能伸,"able to bend and stretch, being adaptable and capable of adjusting oneself to different situations",JSON,"['able to bend and stretch, being adaptable and capable of adjusting oneself to different situations']"
+忠贞不渝,loyalty and unwavering devotion,JSON,['loyalty and unwavering devotion']
+山中宰相,a person of great wisdom or capability who remains hidden or unnoticed,JSON,['a person of great wisdom or capability who remains hidden or unnoticed']
+因人成事,accomplishing tasks through interpersonal relationships and connections,JSON,['accomplishing tasks through interpersonal relationships and connections']
+昏头晕脑,feeling dizzy and confused; having a clouded mind,JSON,"['feeling dizzy and confused', 'having a clouded mind']"
+电光石火,"extremely fast and instantaneous, like a flash of lightning and a spark of stone",JSON,"['extremely fast and instantaneous, like a flash of lightning and a spark of stone']"
+如堕五里雾中,feeling confused and disoriented,JSON,['feeling confused and disoriented']
+安份守己,to be content and stay in one's place; to behave well and not cause trouble,JSON,"[""to be content and stay in one's place"", 'to behave well and not cause trouble']"
+添枝加叶,to add unnecessary details or embellishments,JSON,['to add unnecessary details or embellishments']
+生死不渝,unswerving loyalty; standing firm in life or death,JSON,"['unswerving loyalty', 'standing firm in life or death']"
+三位一体,"""the three parts forming a whole"" or ""trinity""",JSON,"['the three parts forming a whole', 'trinity']"
+斩关夺隘,forcibly break through obstacles or barriers,JSON,['forcibly break through obstacles or barriers']
+容光焕发,to have a radiant and glowing appearance,JSON,['to have a radiant and glowing appearance']
+罄竹难书,"too numerous to write down, can't be described with words",JSON,"[""too numerous to write down, can't be described with words""]"
+万古长春,a place that has remained unchanged for thousands of years,JSON,['a place that has remained unchanged for thousands of years']
+黑云压城城欲摧,a dire situation where everything seems to be falling apart,JSON,['a dire situation where everything seems to be falling apart']
+喷薄而出,gushing forth in great volume,JSON,['gushing forth in great volume']
+一鼻孔出气,to have the same viewpoint or opinion,JSON,['to have the same viewpoint or opinion']
+众说纷纭,"diverse opinions among the people, everyone has their own say",JSON,"['diverse opinions among the people, everyone has their own say']"
+四面楚歌,"being besieged on all sides, surrounded by difficulties or enemies",JSON,"['being besieged on all sides, surrounded by difficulties or enemies']"
+车水马龙,heavily congested traffic,JSON,['heavily congested traffic']
+千金之子,the beloved son of a wealthy family; refers to someone who is pampered and privileged,JSON,"['the beloved son of a wealthy family', 'refers to someone who is pampered and privileged']"
+千姿百态,"various postures and states, diverse and colorful",JSON,"['various postures and states, diverse and colorful']"
+龙蟠虎踞,a place where powerful and influential people gather,JSON,['a place where powerful and influential people gather']
+大吵大闹,to make a big scene or create a lot of noise,JSON,['to make a big scene or create a lot of noise']
+望子成龙,"hoping one's child will achieve great success, especially in a particular field",JSON,"[""hoping one's child will achieve great success, especially in a particular field""]"
+雪月风花,"beautiful scenery, often associated with romantic settings such as snow, moonlight, and flowers",JSON,"['beautiful scenery, often associated with romantic settings such as snow, moonlight, and flowers']"
+狼心狗肺,"""having a heart of a wolf and lungs of a dog"", meaning someone who is extremely cruel, unfeeling, and lacking in compassion.",JSON,['having a heart of a wolf and lungs of a dog']
+故技重演,repeating the same old trick,JSON,['repeating the same old trick']
+雄姿英发,impressive and vigorous appearance,JSON,['impressive and vigorous appearance']
+好说歹说,"persuading through various means, including both gentle and forceful persuasion",JSON,"['persuading through various means, including both gentle and forceful persuasion']"
+强作解人,forceful interpretation of others' intentions or thoughts; misinterpret someone's words or actions,JSON,"[""forceful interpretation of others' intentions or thoughts"", ""misinterpret someone's words or actions""]"
+山清水秀,Beautiful scenery with clear mountains and flowing water,JSON,['beautiful scenery with clear mountains and flowing water']
+与民除害,eliminating harm for the benefit of the people,JSON,['eliminating harm for the benefit of the people']
+面如满月,"having a round face, like a full moon",JSON,"['having a round face, like a full moon']"
+从容不迫,calm and unhurried; relaxed and composed,JSON,"['calm and unhurried', 'relaxed and composed']"
+敝帚自珍,cherishing one's own old broom; taking pride in one's humble possessions,JSON,"[""cherishing one's own old broom"", ""taking pride in one's humble possessions""]"
+踌躇不决,hesitant and indecisive,JSON,['hesitant and indecisive']
+八仙过海,eight immortals cross the sea,JSON,['eight immortals cross the sea']
+英雄所见略同,"""Great minds think alike"" or ""like-minded individuals have similar views""",JSON,"['great minds think alike', 'like-minded individuals have similar views']"
+顾虑重重,to have numerous concerns or worries,JSON,['to have numerous concerns or worries']
+仁至义尽,exhausting all of one's kindness and moral obligation,JSON,"[""exhausting all of one's kindness and moral obligation""]"
+进身之阶,the step or opportunity for career advancement or promotion,JSON,['the step or opportunity for career advancement or promotion']
+掷地有声,resounding and impressive,JSON,['resounding and impressive']
+海外奇谈,strange tales from overseas,JSON,['strange tales from overseas']
+升官发财,to achieve higher position and become wealthy; to attain success and wealth in one's career,JSON,"['to achieve higher position and become wealthy', ""to attain success and wealth in one's career""]"
+垂头丧气,"feeling downcast and dejected, with a lowered head",JSON,"['feeling downcast and dejected, with a lowered head']"
+十目所视,be well-known and recognized by everyone,JSON,['be well-known and recognized by everyone']
+多多益善,"the more, the better",JSON,"['the more, the better']"
+一至于此,"""up to this point"" or ""reaching the extreme""",JSON,"['up to this point', 'reaching the extreme']"
+河清海晏,The rivers are clear and the seas are calm,JSON,['the rivers are clear and the seas are calm']
+如饮醍醐,as refreshing as drinking ambrosia,JSON,['as refreshing as drinking ambrosia']
+格杀勿论,"regardless of circumstances or consequences, treat everyone the same",JSON,"['regardless of circumstances or consequences, treat everyone the same']"
+野心勃勃,ambitious and full of drive,JSON,['ambitious and full of drive']
+斜风细雨,a gentle wind and light rain,JSON,['a gentle wind and light rain']
+目无王法,disregarding the law and having no respect for authority,JSON,['disregarding the law and having no respect for authority']
+不甚了了,Not very clear or not well understood,JSON,['not very clear or not well understood']
+马放南山,to let the horse roam freely in the southern mountains,JSON,['to let the horse roam freely in the southern mountains']
+钻牛角尖,getting stuck in trivial details and overthinking; being stubborn and narrow-minded,JSON,"['getting stuck in trivial details and overthinking', 'being stubborn and narrow-minded']"
+助桀为虐,to assist someone in doing evil or to help someone who is cruel,JSON,['to assist someone in doing evil or to help someone who is cruel']
+衣钵相传,pass on the mantle,JSON,['pass on the mantle']
+雷厉风行,being swift and resolute in one's actions,JSON,"[""being swift and resolute in one's actions""]"
+一事无成,achieving nothing; being unsuccessful,JSON,"['achieving nothing', 'being unsuccessful']"
+光天化日,"open and blatant, happening in broad daylight",JSON,"['open and blatant, happening in broad daylight']"
+发人深省,to provoke deep thought or reflection,JSON,['to provoke deep thought or reflection']
+昼思夜想,think about something day and night,JSON,['think about something day and night']
+心花怒放,"to be extremely happy and elated, feeling joyous and contented in one's heart",JSON,"[""to be extremely happy and elated, feeling joyous and contented in one's heart""]"
+以卵击石,"using inadequate strength or resources to confront a much stronger opponent, which is doomed to fail",JSON,"['using inadequate strength or resources to confront a much stronger opponent, which is doomed to fail']"
+网漏吞舟,to be in a desperate situation and have nowhere to turn,JSON,['to be in a desperate situation and have nowhere to turn']
+不识时务,to not understand or appreciate the current situation or circumstances,JSON,['to not understand or appreciate the current situation or circumstances']
+听天任命,accepting fate and resigning oneself to one's circumstances,JSON,"[""accepting fate and resigning oneself to one's circumstances""]"
+兵精粮足,Having ample resources and well-trained soldiers,JSON,['having ample resources and well-trained soldiers']
+殚思极虑,to exhaust all thoughts and efforts in an attempt to solve a problem or achieve a goal,JSON,['to exhaust all thoughts and efforts in an attempt to solve a problem or achieve a goal']
+金枝玉叶,highly distinguished and privileged family or social status,JSON,['highly distinguished and privileged family or social status']
+落荒而逃,"to flee in panic, abandoning everything",JSON,"['to flee in panic, abandoning everything']"
+水乳交融,perfect harmony; blending seamlessly,JSON,"['perfect harmony', 'blending seamlessly']"
+别有天地,"a world of its own, being unique and different from the ordinary",JSON,"['a world of its own, being unique and different from the ordinary']"
+形容枯槁,describing as withered and dried up,JSON,['describing as withered and dried up']
+当头一棒,being dealt a heavy blow right from the start,JSON,['being dealt a heavy blow right from the start']
+大刀阔斧,taking bold and decisive action,JSON,['taking bold and decisive action']
+两小无猜,"two innocents, having no concerns or doubts about each other",JSON,"['two innocents, having no concerns or doubts about each other']"
+自私自利,selfish and self-centered,JSON,['selfish and self-centered']
+当局者迷,The people involved in a situation are often confused or have a limited perspective,JSON,['the people involved in a situation are often confused or have a limited perspective']
+意气相投,Have a similar disposition or temperament; easily get along with each other,JSON,"['have a similar disposition or temperament', 'easily get along with each other']"
+壮心不已,having great ambition and boundless aspirations,JSON,['having great ambition and boundless aspirations']
+和颜悦色,wearing a friendly and smiling face,JSON,['wearing a friendly and smiling face']
+借刀杀人,to have someone else do the dirty work for oneself,JSON,['to have someone else do the dirty work for oneself']
+大获全胜,to achieve a complete and overwhelming victory,JSON,['to achieve a complete and overwhelming victory']
+适得其反,backfiring or having the opposite effect of what was intended,JSON,['backfiring or having the opposite effect of what was intended']
+惹火烧身,"""to bring trouble upon oneself"" or ""to get oneself into trouble""",JSON,"['to bring trouble upon oneself', 'to get oneself into trouble']"
+沆瀣一气,colluding together in mischief or wrongdoing,JSON,['colluding together in mischief or wrongdoing']
+有一利必有一弊,Every advantage comes with a disadvantage,JSON,['every advantage comes with a disadvantage']
+看破红尘,to see through the illusions of the world; to be detached from worldly desires,JSON,"['to see through the illusions of the world', 'to be detached from worldly desires']"
+没头没脑,Without direction or organization; in a confused and disorganized manner,JSON,"['without direction or organization', 'in a confused and disorganized manner']"
+枯枝败叶,"dead branches and withered leaves, referring to people or things that have lost their vitality, become useless or obsolete",JSON,"['dead branches and withered leaves, referring to people or things that have lost their vitality, become useless or obsolete']"
+要而言之,to speak directly and to the point,JSON,['to speak directly and to the point']
+珠圆玉润,describing a person's looks as exquisite and beautiful,JSON,"[""describing a person's looks as exquisite and beautiful""]"
+徒乱人意,"to act in a way that confuses and irritates others, causing chaos and discord",JSON,"['to act in a way that confuses and irritates others, causing chaos and discord']"
+东挪西凑,move or gather from various places,JSON,['move or gather from various places']
+秋收冬藏,To reap in autumn and store in winter,JSON,['to reap in autumn and store in winter']
+离情别绪,emotional and complex feelings when parting from loved ones,JSON,['emotional and complex feelings when parting from loved ones']
+旧瓶装新酒,put old wine in new bottles,JSON,['put old wine in new bottles']
+一叶障目,being blinded by one leaf,JSON,['being blinded by one leaf']
+同归于尽,all end in the same way; all perish together,JSON,"['all end in the same way', 'all perish together']"
+望眼欲穿,"eagerly looking, as if one's eyes could penetrate through",JSON,"[""eagerly looking, as if one's eyes could penetrate through""]"
+悲欢离合,"the joys and sorrows of life, the ups and downs",JSON,"['the joys and sorrows of life, the ups and downs']"
+争强好胜,have a strong desire to compete and be the best,JSON,['have a strong desire to compete and be the best']
+才疏学浅,"lacking talent and knowledge, not being knowledgeable or well-educated",JSON,"['lacking talent and knowledge, not being knowledgeable or well-educated']"
+嬉皮笑脸,acting silly or behaving in a joking manner,JSON,['acting silly or behaving in a joking manner']
+芒刺在背,"to feel uneasy or nervous, as if there is a thorn stuck in one's back",JSON,"[""to feel uneasy or nervous, as if there is a thorn stuck in one's back""]"
+马耳东风,to turn a deaf ear to advice or criticism,JSON,['to turn a deaf ear to advice or criticism']
+生死未卜,uncertain about life or death,JSON,['uncertain about life or death']
+物力维艰,struggling to make ends meet (financially),JSON,"['struggling to make ends meet ,financially']"
+自出心裁,coming up with one's own unique and creative ideas,JSON,"[""coming up with one's own unique and creative ideas""]"
+戴罪立功,to make up for one's wrongs by doing something commendable,JSON,"[""to make up for one's wrongs by doing something commendable""]"
+椎心泣血,deeply grieved and heartbroken,JSON,['deeply grieved and heartbroken']
+五马分尸,"""divide the five horses and share the wealth equally"" (refers to fair distribution and equal sharing)",JSON,['divide the five horses and share the wealth equally']
+感恩图报,to express gratitude and seek ways to repay kindness,JSON,['to express gratitude and seek ways to repay kindness']
+尺短寸长,"short-sighted and lacking in foresight, focusing only on immediate gains and ignoring long-term consequences",JSON,"['short-sighted and lacking in foresight, focusing only on immediate gains and ignoring long-term consequences']"
+御驾亲征,personally leading an expedition or going on a trip; a ruler or leader directly leading the troops or personally handling a matter,JSON,"['personally leading an expedition or going on a trip', 'a ruler or leader directly leading the troops or personally handling a matter']"
+妙不可言,indescribably wonderful; too marvelous to put into words,JSON,"['indescribably wonderful', 'too marvelous to put into words']"
+老于世故,experienced and knowledgeable about the ways of the world,JSON,['experienced and knowledgeable about the ways of the world']
+感激不尽,feeling extremely grateful and unable to express it fully,JSON,['feeling extremely grateful and unable to express it fully']
+六朝金粉,the beauty and allure of a city in ancient times,JSON,['the beauty and allure of a city in ancient times']
+政通人和,harmony between politics and the people,JSON,['harmony between politics and the people']
+风声鹤唳,to be startled and panic-stricken,JSON,['to be startled and panic-stricken']
+锥处囊中,"to have a critical situation under control, to be well-prepared for any situation, to be resourceful and capable",JSON,"['to have a critical situation under control, to be well-prepared for any situation, to be resourceful and capable']"
+废话连篇,talking nonsense incessantly,JSON,['talking nonsense incessantly']
+车载斗量,overflowing or abundant in quantity,JSON,['overflowing or abundant in quantity']
+矮矮胖胖,short and fat,JSON,['short and fat']
+泾渭分明,"clear distinction between two things, no confusion or mixing",JSON,"['clear distinction between two things, no confusion or mixing']"
+恰到好处,"just right, in the right place or at the right time",JSON,"['just right, in the right place or at the right time']"
+博学多闻,"knowledgeable, well-informed",JSON,"['knowledgeable, well-informed']"
+十冬腊月,the harshest part of the winter season,JSON,['the harshest part of the winter season']
+精神恍惚,mentally confused or disoriented,JSON,['mentally confused or disoriented']
+费尽心机,to use every trick in the book,JSON,['to use every trick in the book']
+兵不厌诈,Deception is a necessary strategy in war.,JSON,['deception is a necessary strategy in war.']
+偏信则暗,Blindly believing leads to ignorance,JSON,['blindly believing leads to ignorance']
+不仁不义,lacking in compassion and justice,JSON,['lacking in compassion and justice']
+笨嘴笨舌,having a clumsy and awkward way of speaking,JSON,['having a clumsy and awkward way of speaking']
+初生之犊,a young and inexperienced person,JSON,['a young and inexperienced person']
+气壮如牛,"full of vigor and energy, just like a strong bull",JSON,"['full of vigor and energy, just like a strong bull']"
+绘声绘影,to vividly describe or depict scenes or situations,JSON,['to vividly describe or depict scenes or situations']
+风行一时,popular for a while,JSON,['popular for a while']
+流芳千古,leaving behind a lasting reputation for generations to come,JSON,['leaving behind a lasting reputation for generations to come']
+斑驳陆离,"diversified and colorful, with various patterns or colors",JSON,"['diversified and colorful, with various patterns or colors']"
+郑重其事,treat something with seriousness and importance,JSON,['treat something with seriousness and importance']
+自视甚高,having a very high opinion of oneself,JSON,['having a very high opinion of oneself']
+大江东去,the great river flows eastward,JSON,['the great river flows eastward']
+孤苦伶仃,lonely and destitute,JSON,['lonely and destitute']
+男女有别,There is a clear distinction between men and women,JSON,['there is a clear distinction between men and women']
+出神入化,reaching a level of skill or mastery to the point of being mesmerizing; performing with such brilliance that it appears almost supernatural,JSON,"['reaching a level of skill or mastery to the point of being mesmerizing', 'performing with such brilliance that it appears almost supernatural']"
+东鳞西爪,a mishmash of unrelated or uncoordinated things,JSON,['a mishmash of unrelated or uncoordinated things']
+仓皇失措,to panic and lose one's composure,JSON,"[""to panic and lose one's composure""]"
+铸成大错,to make a major mistake with serious consequences,JSON,['to make a major mistake with serious consequences']
+收回成命,retracting a previous decision or command,JSON,['retracting a previous decision or command']
+颠沛流离,experience a series of hardships and setbacks,JSON,['experience a series of hardships and setbacks']
+一片冰心,a heart as pure and clean as a piece of ice; also refers to having a kind and innocent heart,JSON,"['a heart as pure and clean as a piece of ice', 'also refers to having a kind and innocent heart']"
+双喜临门,double happiness arrives at the door; also refers to a joyful and auspicious occasion,JSON,"['double happiness arrives at the door', 'also refers to a joyful and auspicious occasion']"
+唱独角戏,performing a monologue; referring to someone who is stubbornly doing things their own way without considering others,JSON,"['performing a monologue', 'referring to someone who is stubbornly doing things their own way without considering others']"
+一面之交,an acquaintance that is only superficial or limited to a single encounter,JSON,['an acquaintance that is only superficial or limited to a single encounter']
+厚颜无耻,shameless and audacious,JSON,['shameless and audacious']
+赤县神州,a place that is extremely impoverished or lacking in resources,JSON,['a place that is extremely impoverished or lacking in resources']
+夺门而出,to rush out of the door in a hurry,JSON,['to rush out of the door in a hurry']
+不惜工本,willing to spare no expense; not hesitating to spend money or effort,JSON,"['willing to spare no expense', 'not hesitating to spend money or effort']"
+暴风骤雨,violent and sudden storm or situation,JSON,['violent and sudden storm or situation']
+无往不克,able to overcome any difficulty or challenge,JSON,['able to overcome any difficulty or challenge']
+力不胜任,unable to handle a task due to lack of ability or strength,JSON,['unable to handle a task due to lack of ability or strength']
+循循善诱,Patiently and skillfully guide someone towards the right path or decision,JSON,['patiently and skillfully guide someone towards the right path or decision']
+狐死首丘,to defeat the leader or mastermind and the subordinates will scatter,JSON,['to defeat the leader or mastermind and the subordinates will scatter']
+得意门生,"""favorite disciple"" or ""proud protégé""",JSON,"['favorite disciple', 'proud protégé']"
+振臂一呼,raise one's arm and shout,JSON,"[""raise one's arm and shout""]"
+冰消瓦解,"to completely disappear or dissolve, just like ice melting and tiles breaking",JSON,"['to completely disappear or dissolve, just like ice melting and tiles breaking']"
+威武不屈,mighty and indomitable,JSON,['mighty and indomitable']
+安枕而卧,To sleep soundly and peacefully,JSON,['to sleep soundly and peacefully']
+道不拾遗,uphold justice and not ignore wrongdoing,JSON,['uphold justice and not ignore wrongdoing']
+血肉相连,blood is thicker than water,JSON,['blood is thicker than water']
+怪模怪样,strange and bizarre in appearance or behavior,JSON,['strange and bizarre in appearance or behavior']
+心浮气躁,Restless and impatient; feeling anxious and irritable,JSON,"['restless and impatient', 'feeling anxious and irritable']"
+平心静气,"calm and composed, with a tranquil mind",JSON,"['calm and composed, with a tranquil mind']"
+月里嫦娥,the lady in the moon,JSON,['the lady in the moon']
+虽死犹生,"still alive in spirit, even if physically dead",JSON,"['still alive in spirit, even if physically dead']"
+风雪交加,to face both challenges and adversities at the same time,JSON,['to face both challenges and adversities at the same time']
+一门心思,having a single-minded focus; putting all one's thoughts and efforts into one thing,JSON,"['having a single-minded focus', ""putting all one's thoughts and efforts into one thing""]"
+人丁兴旺,Having a flourishing population; refers to a family or community that is prosperous and has many children.,JSON,"['having a flourishing population', 'refers to a family or community that is prosperous and has many children.']"
+经久不息,last for a very long time without interruption,JSON,['last for a very long time without interruption']
+父慈子孝,"Filial piety, where the child respects and honors their parents",JSON,"['filial piety, where the child respects and honors their parents']"
+不卑不亢,neither arrogant nor humble; poised and confident,JSON,"['neither arrogant nor humble', 'poised and confident']"
+靠山吃山，靠水吃水,rely on local resources or advantages for sustenance,JSON,['rely on local resources or advantages for sustenance']
+大失所望,greatly disappointed or let down,JSON,['greatly disappointed or let down']
+四面八方,from all sides; from every direction,JSON,"['from all sides', 'from every direction']"
+传宗接代,to pass on one's family name and inheritance to the next generation,JSON,"[""to pass on one's family name and inheritance to the next generation""]"
+争长论短,to argue over trivial matters and criticize each other's shortcomings,JSON,"[""to argue over trivial matters and criticize each other's shortcomings""]"
+事半功倍,to achieve twice the result with half the effort,JSON,['to achieve twice the result with half the effort']
+山珍海错,mixing up valuable things with common ones,JSON,['mixing up valuable things with common ones']
+悲天悯人,feeling sorry for the world and its people,JSON,['feeling sorry for the world and its people']
+心情舒畅,to feel relaxed and content,JSON,['to feel relaxed and content']
+各有千秋,each has its own merits,JSON,['each has its own merits']
+秉笔直书,to write directly and boldly without hesitation or reservation,JSON,['to write directly and boldly without hesitation or reservation']
+望穿秋水,a deep longing or yearning that cannot be fulfilled,JSON,['a deep longing or yearning that cannot be fulfilled']
+耳鬓厮磨,Intimate and affectionate relationship between lovers or married couple.,JSON,['intimate and affectionate relationship between lovers or married couple.']
+鸣冤叫屈,to protest strongly against injustice or unfair treatment,JSON,['to protest strongly against injustice or unfair treatment']
+无价之宝,a priceless treasure; something of immense value that cannot be measured in monetary terms,JSON,"['a priceless treasure', 'something of immense value that cannot be measured in monetary terms']"
+无中生有,fabricate something out of nothing,JSON,['fabricate something out of nothing']
+人事不省,lose consciousness; become unaware of one's surroundings or responsibilities,JSON,"['lose consciousness', ""become unaware of one's surroundings or responsibilities""]"
+面无人色,"to have a pale face, usually due to fear or shock",JSON,"['to have a pale face, usually due to fear or shock']"
+头痛脑热,headache and fever,JSON,['headache and fever']
+克勤克俭,being diligent and frugal,JSON,['being diligent and frugal']
+隐恶扬善,acknowledging and publicizing good deeds while concealing evil deeds,JSON,['acknowledging and publicizing good deeds while concealing evil deeds']
+寥寥可数,very few and easily counted,JSON,['very few and easily counted']
+音容笑貌,"appearance and manner of speech, expression or laughter",JSON,"['appearance and manner of speech, expression or laughter']"
+其乐融融,harmonious and joyful,JSON,['harmonious and joyful']
+街坊邻里,neighbors; people in the same community or neighborhood,JSON,"['neighbors', 'people in the same community or neighborhood']"
+空空如也,"completely empty, devoid of anything",JSON,"['completely empty, devoid of anything']"
+穷山僻壤,"remote and isolated areas, usually with poor geographical conditions",JSON,"['remote and isolated areas, usually with poor geographical conditions']"
+秘而不宣,keeping something secret and not publicly revealing it,JSON,['keeping something secret and not publicly revealing it']
+开心见诚,"Open and sincere, showing genuine happiness",JSON,"['open and sincere, showing genuine happiness']"
+猴年马月,"a very long time, a distant future",JSON,"['a very long time, a distant future']"
+日月如梭,time flies; the passing of time is swift and unstoppable,JSON,"['time flies', 'the passing of time is swift and unstoppable']"
+穴居野处,"living in a secluded and remote place, away from the hustle and bustle of the city",JSON,"['living in a secluded and remote place, away from the hustle and bustle of the city']"
+鹅毛大雪,light snowfall that appears to be large due to the contrast with the feathers of a goose,JSON,['light snowfall that appears to be large due to the contrast with the feathers of a goose']
+尊姓大名,to ask for someone's full name and title in a respectful manner,JSON,"[""to ask for someone's full name and title in a respectful manner""]"
+恶语中伤,hurting someone with harsh words,JSON,['hurting someone with harsh words']
+一时半刻,"a short period of time, a brief moment",JSON,"['a short period of time, a brief moment']"
+极目远望,looking far into the distance,JSON,['looking far into the distance']
+前赴后继,to take turns in carrying on a task or pursuing a cause,JSON,['to take turns in carrying on a task or pursuing a cause']
+沥胆披肝,to pour out one's heart and soul,JSON,"[""to pour out one's heart and soul""]"
+人多势众,Strength in numbers; having the advantage when there are more people,JSON,"['strength in numbers', 'having the advantage when there are more people']"
+贻笑大方,"to become a laughingstock, to invite mockery",JSON,"['to become a laughingstock, to invite mockery']"
+奉如神明,regarding someone/something as a deity or a god,JSON,['regarding someone/something as a deity or a god']
+不即不离,keeping a certain distance but not completely separate,JSON,['keeping a certain distance but not completely separate']
+混沌不分,"a state of chaos and confusion, with no clear distinction or order",JSON,"['a state of chaos and confusion, with no clear distinction or order']"
+七上八落,"unstable or unpredictable, with frequent ups and downs",JSON,"['unstable or unpredictable, with frequent ups and downs']"
+苦海无边，回头是岸,"no matter how difficult a situation is, there is always a way out or a solution if one keeps trying",JSON,"['no matter how difficult a situation is, there is always a way out or a solution if one keeps trying']"
+喜气洋洋,radiating happiness and joy,JSON,['radiating happiness and joy']
+不期然而然,"happening unexpectedly or naturally, without any prior planning",JSON,"['happening unexpectedly or naturally, without any prior planning']"
+宽宏大度,generous and magnanimous,JSON,['generous and magnanimous']
+拍马溜须,hypocritical compliments,JSON,['hypocritical compliments']
+兴味索然,"to be bored or uninterested in something, lacking enthusiasm or excitement",JSON,"['to be bored or uninterested in something, lacking enthusiasm or excitement']"
+评头品足,criticizing or nitpicking; excessively focusing on minor details and flaws,JSON,"['criticizing or nitpicking', 'excessively focusing on minor details and flaws']"
+精明能干,clever and capable,JSON,['clever and capable']
+无穷无尽,endless; without limit,JSON,"['endless', 'without limit']"
+攀龙附凤,seeking advancement and association with influential and powerful people,JSON,['seeking advancement and association with influential and powerful people']
+议论纷纭,diverse opinions and discussions,JSON,['diverse opinions and discussions']
+生死攸关,a matter of life and death,JSON,['a matter of life and death']
+秀外慧中,beautiful on the outside and wise on the inside,JSON,['beautiful on the outside and wise on the inside']
+默不作声,"remaining silent, not making any sound or expressing any opinion",JSON,"['remaining silent, not making any sound or expressing any opinion']"
+天马行空,having wild and imaginative thoughts,JSON,['having wild and imaginative thoughts']
+昏头昏脑,confused and disoriented,JSON,['confused and disoriented']
+快马加鞭,making an extra effort to speed up or push oneself harder,JSON,['making an extra effort to speed up or push oneself harder']
+翻箱倒柜,searching every possible place thoroughly,JSON,['searching every possible place thoroughly']
+千里送鹅毛,Sending a goose feather a thousand miles,JSON,['sending a goose feather a thousand miles']
+路无拾遗,finding and returning lost items to their rightful owners,JSON,['finding and returning lost items to their rightful owners']
+明窗净几,a clean and tidy room with bright windows,JSON,['a clean and tidy room with bright windows']
+莺飞草长,The warblers fly and the grass grows,JSON,['the warblers fly and the grass grows']
+前前后后,back and forth; repeatedly,JSON,"['back and forth', 'repeatedly']"
+大海捞针,"finding a needle in a haystack, attempting to find something extremely difficult or rare",JSON,"['finding a needle in a haystack, attempting to find something extremely difficult or rare']"
+攀高接贵,associating with and seeking connections with influential and high-status individuals,JSON,['associating with and seeking connections with influential and high-status individuals']
+天外有天,There are even greater realms beyond what we can perceive.,JSON,['there are even greater realms beyond what we can perceive.']
+声嘶力竭,exhausted from shouting or screaming loudly,JSON,['exhausted from shouting or screaming loudly']
+源头活水,a continuous and abundant source of inspiration or ideas,JSON,['a continuous and abundant source of inspiration or ideas']
+逍遥自得,enjoying oneself carefreely,JSON,['enjoying oneself carefreely']
+礼尚往来,reciprocity in social interactions; the idea that one should respond to kindness or generosity with a similar gesture,JSON,"['reciprocity in social interactions', 'the idea that one should respond to kindness or generosity with a similar gesture']"
+半斤八两,"Two peas in a pod, six of one and half a dozen of the other",JSON,"['two peas in a pod, six of one and half a dozen of the other']"
+打破常规,break the norm,JSON,['break the norm']
+春满人间,Spring fills the world,JSON,['spring fills the world']
+不苟言笑,not speaking or laughing casually or without thought; being serious and cautious in speech and behavior,JSON,"['not speaking or laughing casually or without thought', 'being serious and cautious in speech and behavior']"
+一相情愿,to have a one-sided and unrealistic wish or desire,JSON,['to have a one-sided and unrealistic wish or desire']
+卖主求荣,seeking personal gain at the expense of others,JSON,['seeking personal gain at the expense of others']
+神出鬼没,appearing and disappearing mysteriously,JSON,['appearing and disappearing mysteriously']
+当断不断,"Once a decision is made, never hesitate or waver",JSON,"['once a decision is made, never hesitate or waver']"
+披发文身,to rebel against authority or societal norms,JSON,['to rebel against authority or societal norms']
+求神问卜,seeking divine intervention or consulting fortune-telling for guidance,JSON,['seeking divine intervention or consulting fortune-telling for guidance']
+反复无常,being unpredictable or changing one's mind frequently,JSON,"[""being unpredictable or changing one's mind frequently""]"
+烈火真金,fire tests gold,JSON,['fire tests gold']
+在此一举,decisive action at a critical moment,JSON,['decisive action at a critical moment']
+头重脚轻,Having a heavy head and light feet,JSON,['having a heavy head and light feet']
+一言一行,every word and action; every move and word; referring to someone's every word and action being scrutinized and judged by others,JSON,"['every word and action', 'every move and word', ""referring to someone's every word and action being scrutinized and judged by others""]"
+敲山震虎,to adopt forceful measures to frighten or intimidate someone influential,JSON,['to adopt forceful measures to frighten or intimidate someone influential']
+山珍海味,"delicacies and gourmet foods, typically referring to a wide variety of high-quality and expensive dishes",JSON,"['delicacies and gourmet foods, typically referring to a wide variety of high-quality and expensive dishes']"
+各行其是,each doing their own thing; each following their own course of action,JSON,"['each doing their own thing', 'each following their own course of action']"
+巧立名目,to come up with various excuses or pretexts,JSON,['to come up with various excuses or pretexts']
+食古不化,stubbornly clinging to old ways and refusing to change or adapt,JSON,['stubbornly clinging to old ways and refusing to change or adapt']
+满目疮痍,"a scene of devastation and destruction, where everything is in ruins, and one can see wounds and injuries everywhere",JSON,"['a scene of devastation and destruction, where everything is in ruins, and one can see wounds and injuries everywhere']"
+破旧立新,to dismantle the old and establish the new; to replace something old and worn-out with something new and fresh,JSON,"['to dismantle the old and establish the new', 'to replace something old and worn-out with something new and fresh']"
+一国三公,"""separation of powers"" or ""three branches of government"" in a country.",JSON,"['separation of powers', 'three branches of government']"
+尽心竭力,to dedicate one's full effort and energy,JSON,"[""to dedicate one's full effort and energy""]"
+龙蛇混杂,a mix of good and bad people or things,JSON,['a mix of good and bad people or things']
+安安稳稳,steady and stable,JSON,['steady and stable']
+自愧不如,feeling ashamed and inferior compared to others; feeling one's own shortcomings and not being as good as others,JSON,"['feeling ashamed and inferior compared to others', ""feeling one's own shortcomings and not being as good as others""]"
+朽木不可雕,Unable to be improved or polished; referring to someone with limited talent or ability that cannot be developed.,JSON,"['unable to be improved or polished', 'referring to someone with limited talent or ability that cannot be developed.']"
+一笑一颦,"express one's emotions through facial expressions, either smiling or frowning",JSON,"[""express one's emotions through facial expressions, either smiling or frowning""]"
+寥若晨星,"extremely rare, like the morning stars",JSON,"['extremely rare, like the morning stars']"
+尽人事，听天命,Doing everything within one's power and leaving the rest to fate,JSON,"[""doing everything within one's power and leaving the rest to fate""]"
+刺股悬梁,sacrificing in order to achieve success; making extreme efforts and sacrifices for a goal,JSON,"['sacrificing in order to achieve success', 'making extreme efforts and sacrifices for a goal']"
+侯门似海,the aristocratic class is like an ocean,JSON,['the aristocratic class is like an ocean']
+出头露面,to make a public appearance after a period of hiding or absence,JSON,['to make a public appearance after a period of hiding or absence']
+辅车相依,mutually dependent and inseparable; relying on each other for support,JSON,"['mutually dependent and inseparable', 'relying on each other for support']"
+一手遮天,"dominating and controlling everything, covering up the truth and manipulating the situation",JSON,"['dominating and controlling everything, covering up the truth and manipulating the situation']"
+铁杵成针,turning an impossible task into a possible one through persistence and effort,JSON,['turning an impossible task into a possible one through persistence and effort']
+无依无靠,without any support or someone to rely on,JSON,['without any support or someone to rely on']
+满腹经纶,having extensive knowledge or being knowledgeable in various fields,JSON,['having extensive knowledge or being knowledgeable in various fields']
+罪孽深重,having committed serious wrongdoings or offenses,JSON,['having committed serious wrongdoings or offenses']
+海阔天高,vast and boundless; having broad horizons,JSON,"['vast and boundless', 'having broad horizons']"
+解甲归田,retire from a military career and return to farming,JSON,['retire from a military career and return to farming']
+横生枝节,unexpected complications or additional difficulties arising,JSON,['unexpected complications or additional difficulties arising']
+始作俑者,The one who initiates or starts something,JSON,['the one who initiates or starts something']
+自告奋勇,"voluntarily offering to do something, showing great enthusiasm and initiative",JSON,"['voluntarily offering to do something, showing great enthusiasm and initiative']"
+白头如新,looking young despite being old,JSON,['looking young despite being old']
+设身处地,putting oneself in someone else's shoes; considering a situation from another person's perspective,JSON,"[""putting oneself in someone else's shoes"", ""considering a situation from another person's perspective""]"
+如鲠在喉,"feeling anxious or distressed, as if having a fish bone stuck in the throat",JSON,"['feeling anxious or distressed, as if having a fish bone stuck in the throat']"
+百伶百俐,very clever and quick-witted,JSON,['very clever and quick-witted']
+浪子回头,A prodigal son returning to his senses,JSON,['a prodigal son returning to his senses']
+筋疲力尽,exhausted both physically and mentally,JSON,['exhausted both physically and mentally']
+烈火干柴,highly combustible material,JSON,['highly combustible material']
+重生父母,to be deeply grateful to one's parents,JSON,"[""to be deeply grateful to one's parents""]"
+狭路相逢,"meeting someone in a difficult or narrow situation, usually leading to conflict or confrontation",JSON,"['meeting someone in a difficult or narrow situation, usually leading to conflict or confrontation']"
+因材施教,teaching according to individual aptitude,JSON,['teaching according to individual aptitude']
+平步青云,rise rapidly in one's career or social status,JSON,"[""rise rapidly in one's career or social status""]"
+目空一切,"look down upon everything, have a supercilious attitude",JSON,"['look down upon everything, have a supercilious attitude']"
+不问不闻,"not ask, not listen, not pay attention to",JSON,"['not ask, not listen, not pay attention to']"
+情随事迁,emotions changing with the circumstances,JSON,['emotions changing with the circumstances']
+爱理不理,ignoring or showing indifference towards someone or something,JSON,['ignoring or showing indifference towards someone or something']
+口服心服,to be convinced and willingly accept something,JSON,['to be convinced and willingly accept something']
+得心应手,skillful and effortless; everything going smoothly,JSON,"['skillful and effortless', 'everything going smoothly']"
+察言观色,paying close attention to someone's words and expressions in order to understand their thoughts and emotions,JSON,"[""paying close attention to someone's words and expressions in order to understand their thoughts and emotions""]"
+悬梁刺股,to study diligently and make efforts to learn and improve,JSON,['to study diligently and make efforts to learn and improve']
+笨手笨脚,clumsy; awkward in handling things,JSON,"['clumsy', 'awkward in handling things']"
+工力悉敌,fully utilize one's skills and efforts to overcome all obstacles and challenges,JSON,"[""fully utilize one's skills and efforts to overcome all obstacles and challenges""]"
+论功封赏,rewarding someone based on their accomplishments and contributions,JSON,['rewarding someone based on their accomplishments and contributions']
+老当益壮,growing stronger and more capable with age,JSON,['growing stronger and more capable with age']
+万古长存,"""endure throughout the ages"" or ""exist for eternity""",JSON,"['endure throughout the ages', 'exist for eternity']"
+大千世界,a vast and diverse world,JSON,['a vast and diverse world']
+欺软怕硬,bully the weak and fear the strong,JSON,['bully the weak and fear the strong']
+下马看花,making a superficial judgment without fully understanding or appreciating something,JSON,['making a superficial judgment without fully understanding or appreciating something']
+愁容满面,wearing a worried or troubled expression,JSON,['wearing a worried or troubled expression']
+藏龙卧虎,a hidden talent or ability,JSON,['a hidden talent or ability']
+理屈词穷,being unable to provide a logical argument or response in a debate or argument; to be at a loss for words,JSON,"['being unable to provide a logical argument or response in a debate or argument', 'to be at a loss for words']"
+乘人之危,taking advantage of someone's vulnerability,JSON,"[""taking advantage of someone's vulnerability""]"
+儒雅风流,graceful and refined,JSON,['graceful and refined']
+小试锋芒,to test one's abilities or skills on a small scale before fully displaying or unleashing them,JSON,"[""to test one's abilities or skills on a small scale before fully displaying or unleashing them""]"
+门当户对,an appropriate match in terms of social status and family background,JSON,['an appropriate match in terms of social status and family background']
+苍松翠柏,"""tall and sturdy trees"" or ""tall and strong individuals""",JSON,"['tall and sturdy trees', 'tall and strong individuals']"
+大杀风景,"to spoil the fun or excitement, making the overall atmosphere less enjoyable",JSON,"['to spoil the fun or excitement, making the overall atmosphere less enjoyable']"
+眉飞色舞,being extremely delighted or excited,JSON,['being extremely delighted or excited']
+对症下药,prescribing the right medicine for an illness; also refers to applying a targeted solution to a problem,JSON,"['prescribing the right medicine for an illness', 'also refers to applying a targeted solution to a problem']"
+欲速则不达,"More haste, less speed",JSON,"['more haste, less speed']"
+加油加醋,add oil and vinegar,JSON,['add oil and vinegar']
+孤军深入,going deep into enemy territory alone,JSON,['going deep into enemy territory alone']
+殊涂同归,different paths leading to the same result,JSON,['different paths leading to the same result']
+除残去秽,eliminate evil and impurities,JSON,['eliminate evil and impurities']
+自甘堕落,to willingly fall into a state of decadence or corruption,JSON,['to willingly fall into a state of decadence or corruption']
+千难万难,extremely difficult or almost impossible,JSON,['extremely difficult or almost impossible']
+招权纳贿,to use one's power and authority to solicit bribes,JSON,"[""to use one's power and authority to solicit bribes""]"
+饮水思源,"""Remember the source of water while drinking"" or ""Remember one's roots and show gratitude""",JSON,"['remember the source of water while drinking', ""remember one's roots and show gratitude""]"
+各行其志,Each follow their own aspirations or pursue their own career paths.,JSON,['each follow their own aspirations or pursue their own career paths.']
+露出马脚,reveal one's true intentions or reveal a mistake,JSON,"[""reveal one's true intentions or reveal a mistake""]"
+两厢情愿,mutually willing and consenting,JSON,['mutually willing and consenting']
+奉行故事,to follow a fixed way of doing things without considering changes or new circumstances,JSON,['to follow a fixed way of doing things without considering changes or new circumstances']
+一清二白,clear and unmistakable; without any doubt or ambiguity,JSON,"['clear and unmistakable', 'without any doubt or ambiguity']"
+沉迷不悟,to be addicted and not wake up,JSON,['to be addicted and not wake up']
+损人肥己,to harm others for one's own benefit,JSON,"[""to harm others for one's own benefit""]"
+情逾骨肉,emotional attachment surpassing that of blood relatives,JSON,['emotional attachment surpassing that of blood relatives']
+取而代之,to replace or succeed; to take over,JSON,"['to replace or succeed', 'to take over']"
+动如脱兔,"moving quickly and agilely, like a rabbit escaping from a predator",JSON,"['moving quickly and agilely, like a rabbit escaping from a predator']"
+勉为其难,doing something reluctantly or with great difficulty,JSON,['doing something reluctantly or with great difficulty']
+存而不论,to set aside or ignore a certain issue or topic for the time being,JSON,['to set aside or ignore a certain issue or topic for the time being']
+一拥而上,rush forward together,JSON,['rush forward together']
+出谋划策,giving wise advice and making strategic plans,JSON,['giving wise advice and making strategic plans']
+罚不当罪,"punishing someone unfairly, imposing a punishment that does not fit the crime",JSON,"['punishing someone unfairly, imposing a punishment that does not fit the crime']"
+犯而不校,making mistakes without being punished or held accountable,JSON,['making mistakes without being punished or held accountable']
+干净利索,clean and neat,JSON,['clean and neat']
+延颈企踵,eagerly looking forward to something,JSON,['eagerly looking forward to something']
+功亏一篑,to ruin the whole project by neglecting one small detail,JSON,['to ruin the whole project by neglecting one small detail']
+实至名归,to achieve the recognition and rewards one truly deserves,JSON,['to achieve the recognition and rewards one truly deserves']
+探头探脑,to be curious and try to get involved in other people's affairs or business,JSON,"[""to be curious and try to get involved in other people's affairs or business""]"
+忍辱含垢,enduring humiliation and concealing one's own flaws,JSON,"[""enduring humiliation and concealing one's own flaws""]"
+撒豆成兵,turning a small thing into something bigger and more significant,JSON,['turning a small thing into something bigger and more significant']
+牛郎织女,The Cowherd and the Weaver Girl,JSON,['the cowherd and the weaver girl']
+逃之夭夭,to escape and never be found again,JSON,['to escape and never be found again']
+直眉瞪眼,to stare with anger or disdain,JSON,['to stare with anger or disdain']
+争名夺利,to fight for fame and personal gain; to compete for recognition and material benefits,JSON,"['to fight for fame and personal gain', 'to compete for recognition and material benefits']"
+能工巧匠,skilled craftsmen; someone who is skilled and talented in their work,JSON,"['skilled craftsmen', 'someone who is skilled and talented in their work']"
+眉目传情,conveying feelings through eye contact,JSON,['conveying feelings through eye contact']
+先声夺人,Take the initiative and gain an advantage by being the first to act or speak,JSON,['take the initiative and gain an advantage by being the first to act or speak']
+看菜吃饭,to only focus on immediate needs and not consider long-term consequences,JSON,['to only focus on immediate needs and not consider long-term consequences']
+勇冠三军,"brave and outstanding, surpassing all others in military prowess",JSON,"['brave and outstanding, surpassing all others in military prowess']"
+永垂不朽,to have a lasting and immortal reputation,JSON,['to have a lasting and immortal reputation']
+搔首弄姿,"acting coquettishly and charmingly, often for attention or to solicit admiration",JSON,"['acting coquettishly and charmingly, often for attention or to solicit admiration']"
+不悱不发,keeping quiet and not expressing one's thoughts or feelings,JSON,"[""keeping quiet and not expressing one's thoughts or feelings""]"
+张灯结彩,decorating with lights and colored ribbons; also refers to celebrating joyously,JSON,"['decorating with lights and colored ribbons', 'also refers to celebrating joyously']"
+知恩报恩,to repay kindness with gratitude and favor,JSON,['to repay kindness with gratitude and favor']
+指桑骂槐,criticizing someone indirectly by mentioning others,JSON,['criticizing someone indirectly by mentioning others']
+前思后想,pondering and reflecting on something in retrospect,JSON,['pondering and reflecting on something in retrospect']
+一家老小,"the whole family, including the old and the young",JSON,"['the whole family, including the old and the young']"
+上梁不正下梁歪,"If the upper beam is not straight, the lower beams will be crooked",JSON,"['if the upper beam is not straight, the lower beams will be crooked']"
+言犹在耳,"still fresh in one's memory, the words can still be heard",JSON,"[""still fresh in one's memory, the words can still be heard""]"
+大名鼎鼎,well-known and famous,JSON,['well-known and famous']
+盖棺论定,to make a final judgment or conclusion after everything is settled,JSON,['to make a final judgment or conclusion after everything is settled']
+扬汤止沸,to resolve a conflict or calm a situation by taking timely and effective measures,JSON,['to resolve a conflict or calm a situation by taking timely and effective measures']
+揽辔澄清,"Taking control and rectifying a situation, restoring clarity and order.",JSON,"['taking control and rectifying a situation, restoring clarity and order.']"
+一意孤行,to persist in one's own way or course of action regardless of others' opinions or advice,JSON,"[""to persist in one's own way or course of action regardless of others' opinions or advice""]"
+百尺竿头,reaching the top of a tall pole or achieving a high level of success,JSON,['reaching the top of a tall pole or achieving a high level of success']
+不屈不挠,unyielding and determined; refusing to give up or be discouraged,JSON,"['unyielding and determined', 'refusing to give up or be discouraged']"
+动人心弦,touching and emotional,JSON,['touching and emotional']
+蓬生麻中,standing out from the crowd,JSON,['standing out from the crowd']
+后起之秀,"a rising star, a talented individual who emerges later",JSON,"['a rising star, a talented individual who emerges later']"
+可遇而不可求,something that can be encountered but cannot be asked for; something that can be stumbled upon but not actively sought after,JSON,"['something that can be encountered but cannot be asked for', 'something that can be stumbled upon but not actively sought after']"
+一蹴可几,achieving something easily and quickly with just one move,JSON,['achieving something easily and quickly with just one move']
+苟且偷生,"living a life of compromise and pursuing a self-centered survival, often at the expense of principles and values",JSON,"['living a life of compromise and pursuing a self-centered survival, often at the expense of principles and values']"
+酒足饭饱,having eaten and drunk enough; fully satisfied,JSON,"['having eaten and drunk enough', 'fully satisfied']"
+扶正祛邪,rectifying the right and eliminating the wrong,JSON,['rectifying the right and eliminating the wrong']
+画虎类狗,Drawing a tiger and ending up with a dog,JSON,['drawing a tiger and ending up with a dog']
+后患无穷,unforeseen troubles or problems that may arise in the future,JSON,['unforeseen troubles or problems that may arise in the future']
+油光水滑,smooth and slick; often used to describe someone's appearance or mannerism that is flattering or deceitful,JSON,"['smooth and slick', ""often used to describe someone's appearance or mannerism that is flattering or deceitful""]"
+条分缕析,"detailed and systematic analysis, breaking down a complex issue into its constituent parts",JSON,"['detailed and systematic analysis, breaking down a complex issue into its constituent parts']"
+鸡犬相闻,being so close together that even the sounds of chickens and dogs can be heard by each other,JSON,['being so close together that even the sounds of chickens and dogs can be heard by each other']
+风流潇洒,charming and elegant,JSON,['charming and elegant']
+倒打一耙,to turn the tables; to counterattack in a situation where one is usually on the defensive,JSON,"['to turn the tables', 'to counterattack in a situation where one is usually on the defensive']"
+噬脐何及,being overly concerned with trivial matters and neglecting more important ones,JSON,['being overly concerned with trivial matters and neglecting more important ones']
+囊空如洗,having no money left; being completely broke,JSON,"['having no money left', 'being completely broke']"
+深更半夜,in the middle of the night,JSON,['in the middle of the night']
+一决雌雄,to have a decisive battle to determine the winner and loser,JSON,['to have a decisive battle to determine the winner and loser']
+研精覃思,dedicating oneself to studying with great concentration and deep contemplation,JSON,['dedicating oneself to studying with great concentration and deep contemplation']
+大摇大摆,strutting around ostentatiously,JSON,['strutting around ostentatiously']
+乞哀告怜,begging for pity and sympathy; seeking help or support by appealing to others' emotions,JSON,"['begging for pity and sympathy', ""seeking help or support by appealing to others' emotions""]"
+帝王将相,the rulers and high-ranking officials (referring to powerful or influential individuals),JSON,"['the rulers and high-ranking officials ,referring to powerful or influential individuals']"
+众寡悬殊,a vast difference in strength between the two sides,JSON,['a vast difference in strength between the two sides']
+一搭一档,one step at a time,JSON,['one step at a time']
+含情脉脉,"gazing tenderly, with deep affection",JSON,"['gazing tenderly, with deep affection']"
+妙笔生花,to have an excellent way with words; to be able to write or speak in a beautiful and eloquent manner,JSON,"['to have an excellent way with words', 'to be able to write or speak in a beautiful and eloquent manner']"
+未风先雨,preparation for something that has not happened yet,JSON,['preparation for something that has not happened yet']
+举世皆知,known to the whole world,JSON,['known to the whole world']
+笨头笨脑,stupid and dull-witted; lacking intelligence,JSON,"['stupid and dull-witted', 'lacking intelligence']"
+以怨报德,to repay kindness with resentment,JSON,['to repay kindness with resentment']
+荒诞不经,"absurd and illogical, making no sense",JSON,"['absurd and illogical, making no sense']"
+循名责实,focus on practical matters and not get distracted by superficial or trivial things,JSON,['focus on practical matters and not get distracted by superficial or trivial things']
+抱残守阙,persisting in a futile effort; sticking to outdated or ineffective methods,JSON,"['persisting in a futile effort', 'sticking to outdated or ineffective methods']"
+灯火辉煌,"brilliantly lit, vibrant and prosperous",JSON,"['brilliantly lit, vibrant and prosperous']"
+义愤填胸,Indignant and filled with a sense of justice,JSON,['indignant and filled with a sense of justice']
+分文不取,not taking a single penny,JSON,['not taking a single penny']
+不无小补,making some minor adjustments or improvements,JSON,['making some minor adjustments or improvements']
+地久天长,lasting forever; referring to a very long and unchanging period of time,JSON,"['lasting forever', 'referring to a very long and unchanging period of time']"
+百闻不如一见,seeing something in person is more effective than hearing about it a hundred times,JSON,['seeing something in person is more effective than hearing about it a hundred times']
+引火烧身,bring harm upon oneself by instigating conflict,JSON,['bring harm upon oneself by instigating conflict']
+置之不理,ignoring or neglecting something,JSON,['ignoring or neglecting something']
+真金不怕火,something that is genuine and valuable will remain unaffected by challenges or difficulties,JSON,['something that is genuine and valuable will remain unaffected by challenges or difficulties']
+借箸代筹,using someone else's power or influence to achieve one's own goals,JSON,"[""using someone else's power or influence to achieve one's own goals""]"
+心无挂碍,having a free and clear mind,JSON,['having a free and clear mind']
+独行其是,insisting on one's own course of action regardless of others' opinions or advice,JSON,"[""insisting on one's own course of action regardless of others' opinions or advice""]"
+惊喜交加,a combination of surprise and joy,JSON,['a combination of surprise and joy']
+前倨后恭,"Being arrogant and rude initially, but humble and respectful later",JSON,"['being arrogant and rude initially, but humble and respectful later']"
+穷途末路,"reaching a dead end, with no way out",JSON,"['reaching a dead end, with no way out']"
+气冲霄汉,to be furious or enraged,JSON,['to be furious or enraged']
+风雨无阻,unaffected by difficulties or obstacles,JSON,['unaffected by difficulties or obstacles']
+文人学士,scholarly person; person with academic knowledge and accomplishments,JSON,"['scholarly person', 'person with academic knowledge and accomplishments']"
+风风火火,doing things in a quick and energetic manner,JSON,['doing things in a quick and energetic manner']
+浑水摸鱼,taking advantage of chaos or confusion to engage in underhanded or dishonest activities,JSON,['taking advantage of chaos or confusion to engage in underhanded or dishonest activities']
+清汤寡水,"a simple or plain meal, lacking in richness or variety",JSON,"['a simple or plain meal, lacking in richness or variety']"
+龙吟虎啸,powerful and majestic; like the roaring of a dragon and the growling of a tiger,JSON,"['powerful and majestic', 'like the roaring of a dragon and the growling of a tiger']"
+永志不忘,never forget one's original intention or goal,JSON,"[""never forget one's original intention or goal""]"
+胡言乱语,"nonsense, gibberish",JSON,"['nonsense, gibberish']"
+等量齐观,treating all things or people equally and impartially,JSON,['treating all things or people equally and impartially']
+信步闲游,to take a leisurely stroll,JSON,['to take a leisurely stroll']
+回眸一笑,"a smile and glance back (from a departing beauty), a captivating and unforgettable smile",JSON,"['a smile and glance back ,from a departing beauty, a captivating and unforgettable smile']"
+遇事生风,to create a fuss or make a big deal out of something,JSON,['to create a fuss or make a big deal out of something']
+头痛医头，脚痛医脚,"treating the headache by treating the head, and treating the foot pain by treating the foot",JSON,"['treating the headache by treating the head, and treating the foot pain by treating the foot']"
+生灵涂炭,a state of great suffering or distress,JSON,['a state of great suffering or distress']
+奋发有为,make great efforts and be determined to achieve success,JSON,['make great efforts and be determined to achieve success']
+心灰意懒,to feel disheartened and lack motivation,JSON,['to feel disheartened and lack motivation']
+才华横溢,full of talent and brilliance,JSON,['full of talent and brilliance']
+待价而沽,wait for the best offer before selling,JSON,['wait for the best offer before selling']
+诗情画意,poetic and picturesque; possessing a beautiful and aesthetic quality,JSON,"['poetic and picturesque', 'possessing a beautiful and aesthetic quality']"
+盘根错节,"complicated and difficult to unravel, like intertwined roots and branches",JSON,"['complicated and difficult to unravel, like intertwined roots and branches']"
+迎风招展,showing off or flaunting in an ostentatious manner,JSON,['showing off or flaunting in an ostentatious manner']
+争先恐后,striving to be the first and fearing to be the last,JSON,['striving to be the first and fearing to be the last']
+操之过急,to be too impatient and hasty in dealing with something,JSON,['to be too impatient and hasty in dealing with something']
+无稽之谈,baseless talk or unfounded rumors,JSON,['baseless talk or unfounded rumors']
+急中生智,to develop wisdom or intelligence in a crisis; to come up with a clever solution to a problem in a moment of urgency,JSON,"['to develop wisdom or intelligence in a crisis', 'to come up with a clever solution to a problem in a moment of urgency']"
+如数家珍,Treating something as a precious treasure and being able to recite or name each one of them accurately,JSON,['treating something as a precious treasure and being able to recite or name each one of them accurately']
+信守不渝,"to remain faithful and steadfast, keeping one's promises and commitments",JSON,"[""to remain faithful and steadfast, keeping one's promises and commitments""]"
+日久年深,through the long passage of time,JSON,['through the long passage of time']
+欲速不达,impatience leads to failure,JSON,['impatience leads to failure']
+从中渔利,to benefit from others' conflicts or disputes,JSON,"[""to benefit from others' conflicts or disputes""]"
+盛气凌人,arrogantly domineering,JSON,['arrogantly domineering']
+青黄不接,"there is a shortage of supply or a decline in business, resulting in a lack of opportunities or jobs",JSON,"['there is a shortage of supply or a decline in business, resulting in a lack of opportunities or jobs']"
+趋吉避凶,seeking good fortune and avoiding disaster,JSON,['seeking good fortune and avoiding disaster']
+暮气沉沉,"filled with a heavy and oppressive atmosphere, especially at the end of the day",JSON,"['filled with a heavy and oppressive atmosphere, especially at the end of the day']"
+秋风落叶,"the passing of time, a symbol of aging or decline",JSON,"['the passing of time, a symbol of aging or decline']"
+恭恭敬敬,being respectful and polite,JSON,['being respectful and polite']
+赤贫如洗,extremely poor,JSON,['extremely poor']
+问心有愧,to have a guilty conscience,JSON,['to have a guilty conscience']
+摇摇摆摆,walking or moving in a swaying or unsteady manner,JSON,['walking or moving in a swaying or unsteady manner']
+荼毒生灵,cruelly tormenting and causing immense suffering to innocent lives,JSON,['cruelly tormenting and causing immense suffering to innocent lives']
+固若金汤,"as firm as a rock, unshakable",JSON,"['as firm as a rock, unshakable']"
+胆大包天,extremely bold and fearless,JSON,['extremely bold and fearless']
+插翅难逃,unable to escape even with wings,JSON,['unable to escape even with wings']
+高谈雄辩,speaking with great eloquence or persuasive skills,JSON,['speaking with great eloquence or persuasive skills']
+执迷不误,"persisting in a mistake, even when it is clear that one is wrong",JSON,"['persisting in a mistake, even when it is clear that one is wrong']"
+清风明月,a clear and tranquil mind,JSON,['a clear and tranquil mind']
+多谋善断,adept at making plans and decisive in executing them,JSON,['adept at making plans and decisive in executing them']
+飞砂走石,to cause chaos or confusion,JSON,['to cause chaos or confusion']
+因时制宜,adapt one's measures to the prevailing circumstances; also means adjusting one's actions according to the specific situation or timing,JSON,"[""adapt one's measures to the prevailing circumstances"", ""also means adjusting one's actions according to the specific situation or timing""]"
+前仰后合,"swaying back and forth, being in a state of confusion or uncertainty",JSON,"['swaying back and forth, being in a state of confusion or uncertainty']"
+上无片瓦，下无插针之地,having no place to stay; being in a difficult situation without any support or shelter,JSON,"['having no place to stay', 'being in a difficult situation without any support or shelter']"
+唯利是图,only interested in personal gain,JSON,['only interested in personal gain']
+一无所有,having nothing at all,JSON,['having nothing at all']
+蒙在鼓里,being kept in the dark or being clueless about something,JSON,['being kept in the dark or being clueless about something']
+干脆利落,clear-cut and decisive,JSON,['clear-cut and decisive']
+一手一足,using both hands and feet effectively,JSON,['using both hands and feet effectively']
+塞翁失马，焉知非福,it may turn out to be a blessing in disguise; a misfortune may lead to a stroke of luck,JSON,"['it may turn out to be a blessing in disguise', 'a misfortune may lead to a stroke of luck']"
+鼎鼎大名,a famous and well-known name,JSON,['a famous and well-known name']
+老泪纵横,"""tears streaming down the face of an old person"" (used to describe extreme sadness or grief of an old person)",JSON,['tears streaming down the face of an old person']
+穷年累月,month after month; for a long time,JSON,"['month after month', 'for a long time']"
+上天入地,being able to go anywhere,JSON,['being able to go anywhere']
+吉日良辰,a propitious day and a good time,JSON,['a propitious day and a good time']
+慷慨仗义,to be generous and uphold justice; to be brave and righteous in standing up for what is right,JSON,"['to be generous and uphold justice', 'to be brave and righteous in standing up for what is right']"
+行行出状元,Every profession has its leading experts; everyone has a chance to succeed in their own field,JSON,"['every profession has its leading experts', 'everyone has a chance to succeed in their own field']"
+善罢甘休,to accept a compromise or settle for less than desired,JSON,['to accept a compromise or settle for less than desired']
+一苇可航,"with just a reed, one can sail across the sea",JSON,"['with just a reed, one can sail across the sea']"
+千古绝唱,a masterpiece that will be remembered for eternity,JSON,['a masterpiece that will be remembered for eternity']
+屁滚尿流,to be extremely frightened,JSON,['to be extremely frightened']
+七上八下,a state of extreme anxiety or uneasiness,JSON,['a state of extreme anxiety or uneasiness']
+有口皆碑,widely praised by everyone,JSON,['widely praised by everyone']
+举手之劳,an action or effort that is so easy and simple that it can be accomplished by just raising one's hand,JSON,"[""an action or effort that is so easy and simple that it can be accomplished by just raising one's hand""]"
+改辕易辙,change direction and take a new approach,JSON,['change direction and take a new approach']
+志大才疏,having great ambitions but lacking the ability to achieve them,JSON,['having great ambitions but lacking the ability to achieve them']
+风调雨顺,favorable weather conditions; smooth and successful progress,JSON,"['favorable weather conditions', 'smooth and successful progress']"
+人尽其才,"making the best use of one's talent, allowing everyone to fully utilize their abilities",JSON,"[""making the best use of one's talent, allowing everyone to fully utilize their abilities""]"
+贪心不足,greedy and never satisfied,JSON,['greedy and never satisfied']
+带罪立功,"to turn a crime into a merit, to make up for a wrongdoing by doing something commendable",JSON,"['to turn a crime into a merit, to make up for a wrongdoing by doing something commendable']"
+坐失机宜,miss a golden opportunity due to inaction or indecisiveness,JSON,['miss a golden opportunity due to inaction or indecisiveness']
+三句话不离本行,always talking about one's own profession or area of expertise,JSON,"[""always talking about one's own profession or area of expertise""]"
+哭哭啼啼,crying and sobbing,JSON,['crying and sobbing']
+诸子百家,various schools of thought,JSON,['various schools of thought']
+过路财神,unexpected financial windfall; refers to unexpectedly coming across wealth or good fortune while passing by,JSON,"['unexpected financial windfall', 'refers to unexpectedly coming across wealth or good fortune while passing by']"
+流离转徙,to wander from place to place in a state of dislocation or homelessness,JSON,['to wander from place to place in a state of dislocation or homelessness']
+背恩忘义,being ungrateful and forgetting kindness,JSON,['being ungrateful and forgetting kindness']
+重蹈覆辙,"repeating the same mistakes, falling into the same trap",JSON,"['repeating the same mistakes, falling into the same trap']"
+倾巢出动,mobilize all available resources or efforts; make a concerted and overwhelming effort,JSON,"['mobilize all available resources or efforts', 'make a concerted and overwhelming effort']"
+不打自招,confessing without being interrogated,JSON,['confessing without being interrogated']
+百听不厌,never tire of listening to it; always willing to listen,JSON,"['never tire of listening to it', 'always willing to listen']"
+别无长物,nothing else; only this one thing,JSON,"['nothing else', 'only this one thing']"
+众心成城,"""Unity is strength"" or ""many hearts together form a fortress""",JSON,"['unity is strength', 'many hearts together form a fortress']"
+亦庄亦谐,both solemn and humorous,JSON,['both solemn and humorous']
+一团和气,"harmonious and friendly atmosphere, everyone getting along with each other",JSON,"['harmonious and friendly atmosphere, everyone getting along with each other']"
+神差鬼使,being possessed by supernatural spirits or forces; acting under the influence of unseen powers,JSON,"['being possessed by supernatural spirits or forces', 'acting under the influence of unseen powers']"
+胸有成竹,to have a well-thought-out plan or strategy,JSON,['to have a well-thought-out plan or strategy']
+死不瞑目,"refusing to accept final defeat or death, showing determination and unwillingness to give up",JSON,"['refusing to accept final defeat or death, showing determination and unwillingness to give up']"
+百家争鸣,the flourishing of many schools of thought,JSON,['the flourishing of many schools of thought']
+花花世界,"world of vanity and pleasure, typically associated with materialistic pursuits",JSON,"['world of vanity and pleasure, typically associated with materialistic pursuits']"
+损公肥私,prioritize personal gains over public interests,JSON,['prioritize personal gains over public interests']
+鹬蚌相争,"When two parties fight, a third party stands to gain",JSON,"['when two parties fight, a third party stands to gain']"
+天香国色,an exceptionally beautiful and charming person or thing,JSON,['an exceptionally beautiful and charming person or thing']
+大逆无道,acting in an extremely rebellious and unjust manner,JSON,['acting in an extremely rebellious and unjust manner']
+五彩斑斓,colorful and vibrant,JSON,['colorful and vibrant']
+怵目惊心,extremely shocking and horrifying,JSON,['extremely shocking and horrifying']
+匠心独运,unique and ingenious craftsmanship or design,JSON,['unique and ingenious craftsmanship or design']
+豕突狼奔,"chaotic and dangerous situation, with pigs rushing and wolves running",JSON,"['chaotic and dangerous situation, with pigs rushing and wolves running']"
+臭味相投,to be like-minded; to have similar tastes or interests; to get along well with someone because of common characteristics or shared opinions,JSON,"['to be like-minded', 'to have similar tastes or interests', 'to get along well with someone because of common characteristics or shared opinions']"
+斩尽杀绝,completely eliminating or wiping out; leaving no room for any exceptions or loopholes,JSON,"['completely eliminating or wiping out', 'leaving no room for any exceptions or loopholes']"
+心灵手巧,be skilled or talented in craftsmanship or artistic pursuits,JSON,['be skilled or talented in craftsmanship or artistic pursuits']
+神通广大,having great supernatural powers or abilities,JSON,['having great supernatural powers or abilities']
+一触即发,on the verge of erupting or happening,JSON,['on the verge of erupting or happening']
+杀鸡儆猴,To kill the chicken to scare the monkey,JSON,['to kill the chicken to scare the monkey']
+一无长物,having nothing of value; having no special talents or skills,JSON,"['having nothing of value', 'having no special talents or skills']"
+歧路亡羊,"to be led astray, to take the wrong path",JSON,"['to be led astray, to take the wrong path']"
+执迷不悟,persisting in one's mistakes and refusing to wake up to reality,JSON,"[""persisting in one's mistakes and refusing to wake up to reality""]"
+神州赤县,a place blessed by divinity and full of peace and prosperity,JSON,['a place blessed by divinity and full of peace and prosperity']
+义形于色,"wearing one's emotions on one's sleeve, showing one's true feelings through facial expressions",JSON,"[""wearing one's emotions on one's sleeve, showing one's true feelings through facial expressions""]"
