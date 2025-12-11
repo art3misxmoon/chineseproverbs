@@ -1,0 +1,184 @@
+ran hugging face setup and model loading
+ran load the dataset
+did supervised fine-tuning (see firstfinetuned_model)
+
+fast testing results: 
+BLEU score: 4.646527568473328
+
+idiomkb results: 
+===== Evaluation Results =====
+BLEU: 2.07
+BERTScore F1 (mean): 0.8475
+BLEURT (mean): 0.4158
+Elapsed time: 4.41 minutes
+
+===== Sample Translations =====
+Source: 艰苦创业
+Reference: ['start a business in difficult circumstances']
+Prediction: to work hard and start a business
+---
+Source: 风雨同舟
+Reference: ['to weather the storm together']
+Prediction: working together with the wind and rain
+---
+Source: 斩草除根
+Reference: ['eliminating the root cause', 'solving a problem thoroughly', 'taking decisive action to eradicate a problem']
+Prediction: to eliminate the root cause or root cause
+---
+Source: 惊魂未定
+Reference: ['still in a state of shock and fear']
+Prediction: in a state of shock and unsure
+---
+Source: 额手称庆
+Reference: ['to pat oneself on the back', 'to be pleased with oneself']
+Prediction: to celebrate with one's own hands
+---
+
+opus100 results: 
+===== Evaluation Results =====
+BLEU: 29.84
+BERTScore F1 (mean): 0.9010
+BLEURT (mean): 0.6221
+Elapsed time: 1.08 minutes
+
+===== Sample Translations =====
+Source: 我们需要的东西来对付它。
+Reference: ['We need something to fight it.']
+Prediction: we need something to handle it.
+---
+Source: 多少钱今天你花？
+Reference: ['How much did you spend today?']
+Prediction: how much do you spend today?
+---
+Source: 定于2005年11月29日星期二下午1时至2时在B会议室由协调人Nicole Ruder 女士（瑞士）就 议程项目58 (a)下关于联合国训练研究所(训研所)的决议草案召集举行非正式的“非正式”协商，并且由协调人Natalia Quintavalle女士（意大利）就议程项目58 (b)下关于联合国职员学院的决议草案召集举行非正式的“非正式”协商。
+Reference: ['Informal “informal” consultations, convened by the Facilitator, Ms. Nicole Ruder (Switzerland), on the draft resolution on the United Nations Institute for Training and Research (UNITAR), under agenda item 58 (a), and informal “informal” consultations, convened by the Facilitator, Ms. Natalia Quintavalle (Italy), on the draft resolution on the United Nations Staff College in Turin, under agenda item 58 (b), will be held on Tuesday, 29 November 2005, from 1 to 2 p.m. in Conference Room B.']
+Prediction: Informal “informal” consultations, convened by the Facilitator, Ms. Nicole Ruder (Switzerland), on the draft resolution on the United Nations Institute for Training and Research (UNITAR), under agenda item 58 (a), and by the Facilitator, Ms. Natalia Quintavalle (Italy), on the draft decision on the United Nations Staff College, under agenda item 58 (b), will be held on Tuesday, 29 November 2005, from 1 to 2 p.m. in Conference Room B.
+---
+Source: 他想成为你这样的人
+Reference: ['And he wanted to be just like you.']
+Prediction: he wants to be someone like you
+---
+Source: 是布希，你记得吧？
+Reference: ["That's Push. You remember him."]
+Prediction: you remember, don't you?
+---
+
+ran mixed fine-tuning (baseline eval did not work, and then had to restart b/c ran out of cuda memory. but reloaded datasets and started straight from here) (see secondfinetuned_model)
+
+idiomkb results: 
+BLEURT computation failed: Graph execution error:
+
+===== Evaluation Results =====
+BLEU: 2.35
+BERTScore F1 (mean): 0.8478
+Elapsed time: 3.01 minutes
+
+===== Sample Translations =====
+Source: 艰苦创业
+Reference: ['start a business in difficult circumstances']
+Prediction: to start a business with great difficulty or difficulty
+---
+Source: 风雨同舟
+Reference: ['to weather the storm together']
+Prediction: sharing the same misfortunes and misfortunes
+---
+Source: 斩草除根
+Reference: ['eliminating the root cause', 'solving a problem thoroughly', 'taking decisive action to eradicate a problem']
+Prediction: to eliminate the root cause and eliminate the root cause
+---
+Source: 惊魂未定
+Reference: ['still in a state of shock and fear']
+Prediction: undecided and undecided
+---
+Source: 额手称庆
+Reference: ['to pat oneself on the back', 'to be pleased with oneself']
+Prediction: to praise someone with one's hands; to celebrate something with one's own hands
+---
+
+opus100 eval: 
+BLEURT computation failed: Graph execution error:
+
+===== Evaluation Results =====
+BLEU: 32.55
+BERTScore F1 (mean): 0.9121
+Elapsed time: 0.85 minutes
+
+===== Sample Translations =====
+Source: 我们需要的东西来对付它。
+Reference: ['We need something to fight it.']
+Prediction: We need something to deal with it.
+---
+Source: 多少钱今天你花？
+Reference: ['How much did you spend today?']
+Prediction: How much do you spend today?
+---
+Source: 定于2005年11月29日星期二下午1时至2时在B会议室由协调人Nicole Ruder 女士（瑞士）就 议程项目58 (a)下关于联合国训练研究所(训研所)的决议草案召集举行非正式的“非正式”协商，并且由协调人Natalia Quintavalle女士（意大利）就议程项目58 (b)下关于联合国职员学院的决议草案召集举行非正式的“非正式”协商。
+Reference: ['Informal “informal” consultations, convened by the Facilitator, Ms. Nicole Ruder (Switzerland), on the draft resolution on the United Nations Institute for Training and Research (UNITAR), under agenda item 58 (a), and informal “informal” consultations, convened by the Facilitator, Ms. Natalia Quintavalle (Italy), on the draft resolution on the United Nations Staff College in Turin, under agenda item 58 (b), will be held on Tuesday, 29 November 2005, from 1 to 2 p.m. in Conference Room B.']
+Prediction: Informal “informal” consultations, called by the Facilitator, Ms. Nicole Ruder (Switzerland), on the draft resolution on the United Nations Institute for Training and Research (UNITAR), under agenda item 58 (a), and by the Facilitator, Ms.na Quintavalle (Italy), on the draft resolution on the United Nations Staff College, under agenda item 58 (b), will be held on Tuesday, 29 November 2005, from 1 to 2 p.m. in Conference Room B.
+---
+Source: 他想成为你这样的人
+Reference: ['And he wanted to be just like you.']
+Prediction: He wants to be someone like you.
+---
+Source: 是布希，你记得吧？
+Reference: ["That's Push. You remember him."]
+Prediction: It's Butch, you remember that?
+---
+
+
+
+SUMMARY STATS
+Current working directory: /content/drive/MyDrive/chineseproverbs
+               # Examples  Avg. Chinese Length  Avg. English Length  \
+IdiomKB Train      6904.0             4.142816             8.630939   
+IdiomKB Val         864.0             4.189815             8.718750   
+IdiomKB Test        864.0             4.118056             8.734954   
+General Train      1600.0            40.752500            21.673125   
+General Val         200.0            37.280000            20.025000   
+General Test        200.0            41.845000            22.145000   
+
+               Avg. # References  
+IdiomKB Train           1.196842  
+IdiomKB Val             1.185185  
+IdiomKB Test            1.189815  
+General Train           1.000000  
+General Val             1.000000  
+General Test            1.000000  
+
+Sample IdiomKB Examples:
+      chinese                                            english  \
+611     闻风丧胆   to be terrified at the mere mention of something   
+2206    临渴掘井  to dig a well when thirsty, taking action only...   
+6525    独具只眼             having a unique perspective or insight   
+2223    缓不济急                   too slow to meet the urgent need   
+2239    喜怒无常                   having unpredictable mood swings   
+
+                                              refs_list  
+611   ['to be terrified at the mere mention of somet...  
+2206  ['to dig a well when thirsty, taking action on...  
+6525         ['having a unique perspective or insight']  
+2223               ['too slow to meet the urgent need']  
+2239               ['having unpredictable mood swings']  
+
+Sample General Translation Examples:
+                                                 chinese  \
+1188                                继续全天候保护兰娜蒂 明天一早我们再谈   
+1489               这些访问提高了委员会的可见度，有助于各国正确认识制裁体制的目的与重要性。   
+302            我得读上... 几千页的报告,这40年来不断累积下来的报告真是可观 说实话...   
+135   与非政府组织的协作将大大促进千年发展目标的落实，尤其是在人道主义领域，在消灭贫穷以及在教育方...   
+1034                                         - 是吗 我就要商量   
+
+                                                english  \
+1188  Maintain an around-the-clock watch on Ronnette...   
+1489  Those trips raised the Committee's profile and...   
+302            I must have read several thousand pages.   
+135   Partnership with NGOs will considerably facili...   
+1034                        - Yeah? I say we negotiate.   
+
+                                              refs_list  
+1188  ["Maintain an around-the-clock watch on Ronnet...  
+1489  ["Those trips raised the Committee's profile a...  
+302        ['I must have read several thousand pages.']  
+135   ['Partnership with NGOs will considerably faci...  
+1034                    ['- Yeah? I say we negotiate.']  
+
